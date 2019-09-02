@@ -1,0 +1,1231 @@
+<html><head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <link href="/favicon.ico" rel="icon" type="image/x-icon">
+    <meta http-equiv="Content-Type" content="text/html; charset=gbk">
+    <title>【北京计算机软件招聘_最新北京计算机软件招聘信息】-前程无忧</title>
+    <meta name="description" content="前程无忧为您提供最新最全的北京计算机软件招聘、求职信息，找工作、找人才就上北京前程无忧招聘专区！掌握前程，职场无忧！">
+    <meta name="keywords" content="北京计算机软件,北京计算机软件招聘,最新北京计算机软件招聘信息">
+    <meta name="applicable-device" content="pc">
+    <meta name="mobile-agent" content="format=xhtml;url=https://m.51job.com/jobs/beijing/hy01/p1/">
+    <meta name="mobile-agent" content="format=html5;url=https://m.51job.com/jobs/beijing/hy01/p1/">
+    <meta name="mobile-agent" content="format=wml;url=https://m.51job.com/jobs/beijing/hy01/p1/">
+    <meta name="robots" content="all">
+    <meta http-equiv="Expires" content="0">
+    <meta http-equiv="Cache-Control" content="no-cache">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Cache-Control" content="no-transform">
+    <meta http-equiv="Cache-Control" content="no-siteapp">
+    <link href="//js.51jobcdn.com" rel="dns-prefetch">
+    <link href="//jobs.51job.com/beijing/hy01/p1/" rel="canonical">
+    <link href="//img01.51jobcdn.com" rel="dns-prefetch">
+    <link href="//img02.51jobcdn.com" rel="dns-prefetch">
+    <link href="//img03.51jobcdn.com" rel="dns-prefetch">
+    <link href="//img04.51jobcdn.com" rel="dns-prefetch">
+    <link href="//img05.51jobcdn.com" rel="dns-prefetch">
+    <link href="//img06.51jobcdn.com" rel="dns-prefetch">
+    <script language="javascript" src="//js.51jobcdn.com/in/js/2016/jquery.js?20180319"></script>
+    <script language="javascript">
+    var _tkd = _tkd || []; //点击量统计用
+    var lang = [];
+    var supporthttps = 1; //浏览器是否支持https
+    var currenthttps = (window.location.protocol === 'https:') ? '1' : '0'; //当前是否为https
+    var systemtime = 1567398130479;
+    var d_system_client_time = systemtime - new Date().getTime();
+    var trackConfig = {
+        'guid': '47065efe6365e73c79286e7d62b6ff02',
+        'ip': '124.237.114.67',
+        'accountid': '',
+        'refpage': '',
+        'refdomain': '',
+        'domain': 'jobs.51job.com',
+        'pageName': '',
+        'partner': '',
+        'islanding': '0',
+    };
+    window.cfg = {
+        lang:'c',
+        domain : {
+            my : 'http://my.51job.com',
+            login : 'https://login.51job.com',
+            search : 'https://search.51job.com',
+            www : '//www.51job.com',
+            jobs : 'https://jobs.51job.com',
+            jianli : 'https://jianli.51job.com',
+            company : '//company.51job.com',
+            i : '//i.51job.com',
+            jc : '//jc.51job.com',
+            map : 'https://map.51job.com',
+            m : 'https://m.51job.com',
+            cdn : '//js.51jobcdn.com',
+            help : 'https://help.51job.com',
+            img : '//img04.51jobcdn.com',
+            dj : '//dj.51job.com',
+            mdj : '//mdj.51job.com',
+            mq : '//mq.51job.com',
+            mmq : '//mmq.51job.com',
+            kbc : 'https://kbc.51job.com',
+            mtr : 'https://medu.51job.com',
+            tr : 'https://edu.51job.com',
+        }
+    };
+
+</script>
+<script src="//js.51jobcdn.com/in/js/2016/pointtrack.js?20180605" type="text/javascript"></script>
+
+        <link href="//js.51jobcdn.com/in/resource/css/2019/jobs/jobListCss.956894b9.css" rel="stylesheet">
+</head>
+<body>
+<div class="header">
+    <!-- bar start -->
+    <div class="bar">
+        <div class="in">
+            <div class="language">
+                <ul id="languagelist">
+                    <li class="tle"><span class="list">简</span><em class="icon_arrow"></em></li><li><a href="http://big5.51job.com/gate/big5/www.51job.com/" rel="external nofollow">繁</a></li><li class="last"><a href="//www.51job.com/default-e.php" rel="external nofollow">EN</a></li>                    <script language="javascript">
+                        if(location.hostname == "big5.51job.com")
+                        {
+                            $('#languagelist li span').html("繁");
+                            $('#languagelist li:nth-child(2) a').html("简");
+                            $('#languagelist li:nth-child(2) a').attr('href','javascript:void(0)');
+                            $('#languagelist li:nth-child(2) a').click(function(){location.href=window.cfg.domain.www});
+                            $('#languagelist li:nth-child(3) a').attr('href','javascript:void(0)');
+                            $('#languagelist li:nth-child(3) a').click(function(){location.href=window.cfg.domain.www+"/default-e.php"});
+                        }
+                    </script>
+                </ul>
+            </div>
+            <span class="l">|</span>
+            <div class="app">
+                <ul>
+                    <li><em class="e_icon"></em><a href="http://app.51job.com/index.html">APP下载</a><em class="icon_arrow"></em></li>
+                    <li>
+                        <img width="80" height="80" alt="app download" src="//img03.51jobcdn.com/im/2016/code/web_top.png">
+                        <p><a href="http://app.51job.com/index.html">APP下载</a></p>
+                    </li>
+                </ul>
+            </div>
+            <p class="rlk">
+                <a href="https://jobs.51job.com" target="_blank">招聘信息</a>                <span class="l">|</span>
+                <a href="https://ehire.51job.com" target="_blank">企业服务</a>            </p>
+            <div class="uer">
+                                    <p class="op">
+                        <a href="https://login.51job.com/login.php?lang=c&amp;url=http%3A%2F%2Fjobs.51job.com%2Fbeijing%2Fhy01%2Fp1%2F" rel="external nofollow">登录</a> / <a href="https://login.51job.com/register.php?lang=c&amp;url=http%3A%2F%2Fjobs.51job.com%2Fbeijing%2Fhy01%2Fp1%2F" rel="external nofollow">注册</a>                    </p>
+                            </div>
+        </div>
+    </div>
+    <!-- top end -->
+    <!-- 英文版为body添加class -->
+    <script>
+            </script>
+    <!-- nag start -->
+    <div class="pop-city" id="area_channel_layer" style="display:none;position: absolute; z-index: 1000;">
+    <div class="tle">
+        地区选择        <em class="close" onclick="jvascript:$('#area_channel_layer,#area_channel_layer_backdrop').hide();"></em>
+    </div>
+    <div class="pcon">
+        <div class="ht">
+            <label>热门城市</label><a href="//www.51job.com/beijing/">北京</a><a href="//www.51job.com/shanghai/">上海</a><a href="//www.51job.com/guangzhou/">广州</a><a href="//www.51job.com/shenzhen/">深圳</a><a href="//www.51job.com/wuhan/">武汉</a><a href="//www.51job.com/xian/">西安</a><a href="//www.51job.com/hangzhou/">杭州</a><a href="//www.51job.com/nanjing/">南京</a><a href="//www.51job.com/chengdu/">成都</a><a href="//www.51job.com/chongqing/">重庆</a>        </div>
+        <div class="cbox">
+            <ul id="area_channel_layer_list">
+                <li class="on" onclick="areaChannelChangeTab('abc', this)">A B C</li>
+                <li onclick="areaChannelChangeTab('def', this)">D E F</li>
+                <li onclick="areaChannelChangeTab('gh', this)">G H</li>
+                <li onclick="areaChannelChangeTab('jkl', this)">J K L</li>
+                <li onclick="areaChannelChangeTab('mnp', this)">M N P</li>
+                <li onclick="areaChannelChangeTab('qrs', this)">Q R S</li>
+                <li onclick="areaChannelChangeTab('twx', this)">T W X</li>
+                <li onclick="areaChannelChangeTab('yz', this)">Y Z</li>
+            </ul>
+            <div class="clst" id="area_channel_layer_all">
+                    <div class="e" name="area_channel_div_abc">
+        <span><a href="//www.51job.com/anshan/">鞍山</a></span>
+        <span><a href="//www.51job.com/anqing/">安庆</a></span>
+        <span><a href="//www.51job.com/anyang/">安阳</a></span>
+        <span><a href="//www.51job.com/beijing/">北京</a></span>
+        <span><a href="//www.51job.com/baotou/">包头</a></span>
+        <span><a href="//www.51job.com/baoding/">保定</a></span>
+        <span><a href="//www.51job.com/bengbu/">蚌埠</a></span>
+        <span><a href="//www.51job.com/baoji/">宝鸡</a></span>
+        <span><a href="//www.51job.com/binzhou/">滨州</a></span>
+        <span><a href="//www.51job.com/changchun/">长春</a></span>
+        <span><a href="//www.51job.com/changsha/">长沙</a></span>
+        <span><a href="//www.51job.com/chengdu/">成都</a></span>
+        <span><a href="//www.51job.com/chongqing/">重庆</a></span>
+        <span><a href="//www.51job.com/changzhou/">常州</a></span>
+        <span><a href="//www.51job.com/changde/">常德</a></span>
+        <span><a href="//www.51job.com/changshu/">常熟</a></span>
+        <span><a href="//www.51job.com/cangzhou/">沧州</a></span>
+        <span><a href="//www.51job.com/chaozhou/">潮州</a></span>
+        <span><a href="//www.51job.com/chenzhou/">郴州</a></span>
+        <span><a href="//www.51job.com/chifeng/">赤峰</a></span>
+        <span><a href="//www.51job.com/chuzhou/">滁州</a></span>
+        <span><a href="//www.51job.com/changzhi/">长治</a></span>
+    </div>
+    <div class="e" style="display:none" name="area_channel_div_def">
+        <span><a href="//www.51job.com/dalian/">大连</a></span>
+        <span><a href="//www.51job.com/dongguan/">东莞</a></span>
+        <span><a href="//www.51job.com/dandong/">丹东</a></span>
+        <span><a href="//www.51job.com/daqing/">大庆</a></span>
+        <span><a href="//www.51job.com/dazhou/">达州</a></span>
+        <span><a href="//www.51job.com/datong/">大同</a></span>
+        <span><a href="//www.51job.com/deyang/">德阳</a></span>
+        <span><a href="//www.51job.com/dezhou/">德州</a></span>
+        <span><a href="//www.51job.com/dongying/">东营</a></span>
+        <span><a href="//www.51job.com/errduosi/">鄂尔多斯</a></span>
+        <span><a href="//www.51job.com/ezhou/">鄂州</a></span>
+        <span><a href="//www.51job.com/fuzhou/">福州</a></span>
+        <span><a href="//www.51job.com/foshan/">佛山</a></span>
+        <span><a href="//www.51job.com/fushun/">抚顺</a></span>
+        <span><a href="//www.51job.com/fuzhoue/">抚州</a></span>
+        <span><a href="//www.51job.com/fuyang/">阜阳</a></span>
+    </div>
+    <div class="e" style="display:none" name="area_channel_div_gh">
+        <span><a href="//www.51job.com/guangzhou/">广州</a></span>
+        <span><a href="//www.51job.com/guiyang/">贵阳</a></span>
+        <span><a href="//www.51job.com/ganzhou/">赣州</a></span>
+        <span><a href="//www.51job.com/guangan/">广安</a></span>
+        <span><a href="//www.51job.com/guangyuan/">广元</a></span>
+        <span><a href="//www.51job.com/guigang/">贵港</a></span>
+        <span><a href="//www.51job.com/guilin/">桂林</a></span>
+        <span><a href="//www.51job.com/harbin/">哈尔滨</a></span>
+        <span><a href="//www.51job.com/hangzhou/">杭州</a></span>
+        <span><a href="//www.51job.com/hefei/">合肥</a></span>
+        <span><a href="//www.51job.com/haikou/">海口</a></span>
+        <span><a href="//www.51job.com/huhhot/">呼和浩特</a></span>
+        <span><a href="//www.51job.com/huizhou/">惠州</a></span>
+        <span><a href="//www.51job.com/hengyang/">衡阳</a></span>
+        <span><a href="//www.51job.com/huaian/">淮安</a></span>
+        <span><a href="//www.51job.com/huzhou/">湖州</a></span>
+        <span><a href="//www.51job.com/handan/">邯郸</a></span>
+        <span><a href="//www.51job.com/hanzhong/">汉中</a></span>
+        <span><a href="//www.51job.com/heyuan/">河源</a></span>
+        <span><a href="//www.51job.com/heze/">菏泽</a></span>
+        <span><a href="//www.51job.com/hengshui/">衡水</a></span>
+        <span><a href="//www.51job.com/huaihua/">怀化</a></span>
+        <span><a href="//www.51job.com/huaibei/">淮北</a></span>
+        <span><a href="//www.51job.com/huainan/">淮南</a></span>
+        <span><a href="//www.51job.com/huanggang/">黄冈</a></span>
+        <span><a href="//www.51job.com/huangshi/">黄石</a></span>
+    </div>
+    <div class="e" style="display:none" name="area_channel_div_jkl">
+        <span><a href="//www.51job.com/jinan/">济南</a></span>
+        <span><a href="//www.51job.com/jiaxing/">嘉兴</a></span>
+        <span><a href="//www.51job.com/jinhua/">金华</a></span>
+        <span><a href="//www.51job.com/jilin/">吉林</a></span>
+        <span><a href="//www.51job.com/jiangmen/">江门</a></span>
+        <span><a href="//www.51job.com/jingzhou/">荆州</a></span>
+        <span><a href="//www.51job.com/jining/">济宁</a></span>
+        <span><a href="//www.51job.com/jiujiang/">九江</a></span>
+        <span><a href="//www.51job.com/jian/">吉安</a></span>
+        <span><a href="//www.51job.com/jiaozuo/">焦作</a></span>
+        <span><a href="//www.51job.com/jieyang/">揭阳</a></span>
+        <span><a href="//www.51job.com/jinzhou/">锦州</a></span>
+        <span><a href="//www.51job.com/jinzhong/">晋中</a></span>
+        <span><a href="//www.51job.com/jingmen/">荆门</a></span>
+        <span><a href="//www.51job.com/kunming/">昆明</a></span>
+        <span><a href="//www.51job.com/kunshan/">昆山</a></span>
+        <span><a href="//www.51job.com/kaifeng/">开封</a></span>
+        <span><a href="//www.51job.com/lanzhou/">兰州</a></span>
+        <span><a href="//www.51job.com/langfang/">廊坊</a></span>
+        <span><a href="//www.51job.com/linyi/">临沂</a></span>
+        <span><a href="//www.51job.com/luoyang/">洛阳</a></span>
+        <span><a href="//www.51job.com/lianyungang/">连云港</a></span>
+        <span><a href="//www.51job.com/liuzhou/">柳州</a></span>
+        <span><a href="//www.51job.com/leshan/">乐山</a></span>
+        <span><a href="//www.51job.com/liaocheng/">聊城</a></span>
+        <span><a href="//www.51job.com/linfen/">临汾</a></span>
+        <span><a href="//www.51job.com/luan/">六安</a></span>
+        <span><a href="//www.51job.com/loudi/">娄底</a></span>
+        <span><a href="//www.51job.com/luzhou/">泸州</a></span>
+        <span><a href="//www.51job.com/luohe/">漯河</a></span>
+    </div>
+    <div class="e" style="display:none" name="area_channel_div_mnp">
+        <span><a href="//www.51job.com/mianyang/">绵阳</a></span>
+        <span><a href="//www.51job.com/maanshan/">马鞍山</a></span>
+        <span><a href="//www.51job.com/maoming/">茂名</a></span>
+        <span><a href="//www.51job.com/meishan/">眉山</a></span>
+        <span><a href="//www.51job.com/meizhou/">梅州</a></span>
+        <span><a href="//www.51job.com/nanjing/">南京</a></span>
+        <span><a href="//www.51job.com/ningbo/">宁波</a></span>
+        <span><a href="//www.51job.com/nanchang/">南昌</a></span>
+        <span><a href="//www.51job.com/nantong/">南通</a></span>
+        <span><a href="//www.51job.com/nanning/">南宁</a></span>
+        <span><a href="//www.51job.com/nanchong/">南充</a></span>
+        <span><a href="//www.51job.com/nanyang/">南阳</a></span>
+        <span><a href="//www.51job.com/neijiang/">内江</a></span>
+        <span><a href="//www.51job.com/ningde/">宁德</a></span>
+        <span><a href="//www.51job.com/pingdingshan/">平顶山</a></span>
+        <span><a href="//www.51job.com/putian/">莆田</a></span>
+        <span><a href="//www.51job.com/puyang/">濮阳</a></span>
+    </div>
+    <div class="e" style="display:none" name="area_channel_div_qrs">
+        <span><a href="//www.51job.com/qingdao/">青岛</a></span>
+        <span><a href="//www.51job.com/quanzhou/">泉州</a></span>
+        <span><a href="//www.51job.com/qinhuangdao/">秦皇岛</a></span>
+        <span><a href="//www.51job.com/qingyuan/">清远</a></span>
+        <span><a href="//www.51job.com/qiqihaer/">齐齐哈尔</a></span>
+        <span><a href="//www.51job.com/quzhou/">衢州</a></span>
+        <span><a href="//www.51job.com/qujing/">曲靖</a></span>
+        <span><a href="//www.51job.com/rizhao/">日照</a></span>
+        <span><a href="//www.51job.com/shanghai/">上海</a></span>
+        <span><a href="//www.51job.com/shenzhen/">深圳</a></span>
+        <span><a href="//www.51job.com/shenyang/">沈阳</a></span>
+        <span><a href="//www.51job.com/shijiazhuang/">石家庄</a></span>
+        <span><a href="//www.51job.com/suzhou/">苏州</a></span>
+        <span><a href="//www.51job.com/sanya/">三亚</a></span>
+        <span><a href="//www.51job.com/shaoxing/">绍兴</a></span>
+        <span><a href="//www.51job.com/shantou/">汕头</a></span>
+        <span><a href="//www.51job.com/shanwei/">汕尾</a></span>
+        <span><a href="//www.51job.com/shangqiu/">商丘</a></span>
+        <span><a href="//www.51job.com/shangrao/">上饶</a></span>
+        <span><a href="//www.51job.com/shaoguan/">韶关</a></span>
+        <span><a href="//www.51job.com/shaoyang/">邵阳</a></span>
+        <span><a href="//www.51job.com/shiyan/">十堰</a></span>
+        <span><a href="//www.51job.com/suizhou/">随州</a></span>
+        <span><a href="//www.51job.com/suining/">遂宁</a></span>
+        <span><a href="//www.51job.com/suqian/">宿迁</a></span>
+        <span><a href="//www.51job.com/suzhoue/">宿州</a></span>
+    </div>
+    <div class="e" style="display:none" name="area_channel_div_twx">
+        <span><a href="//www.51job.com/tianjin/">天津</a></span>
+        <span><a href="//www.51job.com/taiyuan/">太原</a></span>
+        <span><a href="//www.51job.com/taizhoue/">台州</a></span>
+        <span><a href="//www.51job.com/tangshan/">唐山</a></span>
+        <span><a href="//www.51job.com/taizhou/">泰州</a></span>
+        <span><a href="//www.51job.com/tieling/">铁岭</a></span>
+        <span><a href="//www.51job.com/taian/">泰安</a></span>
+        <span><a href="//www.51job.com/wuhan/">武汉</a></span>
+        <span><a href="//www.51job.com/wuxi/">无锡</a></span>
+        <span><a href="//www.51job.com/wenzhou/">温州</a></span>
+        <span><a href="//www.51job.com/urumqi/">乌鲁木齐</a></span>
+        <span><a href="//www.51job.com/wuhu/">芜湖</a></span>
+        <span><a href="//www.51job.com/weifang/">潍坊</a></span>
+        <span><a href="//www.51job.com/weihai/">威海</a></span>
+        <span><a href="//www.51job.com/weinan/">渭南</a></span>
+        <span><a href="//www.51job.com/xian/">西安</a></span>
+        <span><a href="//www.51job.com/xiamen/">厦门</a></span>
+        <span><a href="//www.51job.com/xuzhou/">徐州</a></span>
+        <span><a href="//www.51job.com/xiangyang/">襄阳</a></span>
+        <span><a href="//www.51job.com/xiangtan/">湘潭</a></span>
+        <span><a href="//www.51job.com/xianyang/">咸阳</a></span>
+        <span><a href="//www.51job.com/xining/">西宁</a></span>
+        <span><a href="//www.51job.com/xianning/">咸宁</a></span>
+        <span><a href="//www.51job.com/xiaogan/">孝感</a></span>
+        <span><a href="//www.51job.com/xinxiang/">新乡</a></span>
+        <span><a href="//www.51job.com/xinyang/">信阳</a></span>
+        <span><a href="//www.51job.com/xingtai/">邢台</a></span>
+        <span><a href="//www.51job.com/xuchang/">许昌</a></span>
+        <span><a href="//www.51job.com/xuancheng/">宣城</a></span>
+    </div>
+    <div class="e" style="display:none" name="area_channel_div_yz">
+        <span><a href="//www.51job.com/yantai/">烟台</a></span>
+        <span><a href="//www.51job.com/yangzhou/">扬州</a></span>
+        <span><a href="//www.51job.com/yichang/">宜昌</a></span>
+        <span><a href="//www.51job.com/yancheng/">盐城</a></span>
+        <span><a href="//www.51job.com/yiwu/">义乌</a></span>
+        <span><a href="//www.51job.com/yingkou/">营口</a></span>
+        <span><a href="//www.51job.com/yinchuan/">银川</a></span>
+        <span><a href="//www.51job.com/yangjiang/">阳江</a></span>
+        <span><a href="//www.51job.com/yibin/">宜宾</a></span>
+        <span><a href="//www.51job.com/yichune/">宜春</a></span>
+        <span><a href="//www.51job.com/yiyang/">益阳</a></span>
+        <span><a href="//www.51job.com/yongzhou/">永州</a></span>
+        <span><a href="//www.51job.com/yulin/">玉林</a></span>
+        <span><a href="//www.51job.com/yueyang/">岳阳</a></span>
+        <span><a href="//www.51job.com/yuncheng/">运城</a></span>
+        <span><a href="//www.51job.com/zhangzhou/">漳州</a></span>
+        <span><a href="//www.51job.com/zhengzhou/">郑州</a></span>
+        <span><a href="//www.51job.com/zhongshan/">中山</a></span>
+        <span><a href="//www.51job.com/zhuhai/">珠海</a></span>
+        <span><a href="//www.51job.com/zhenjiang/">镇江</a></span>
+        <span><a href="//www.51job.com/zhuzhou/">株洲</a></span>
+        <span><a href="//www.51job.com/zhanjiang/">湛江</a></span>
+        <span><a href="//www.51job.com/zhaoqing/">肇庆</a></span>
+        <span><a href="//www.51job.com/zhangjiagang/">张家港</a></span>
+        <span><a href="//www.51job.com/zibo/">淄博</a></span>
+        <span><a href="//www.51job.com/zaozhuang/">枣庄</a></span>
+        <span><a href="//www.51job.com/zhangjiakou/">张家口</a></span>
+        <span><a href="//www.51job.com/zhoukou/">周口</a></span>
+        <span><a href="//www.51job.com/zhumadian/">驻马店</a></span>
+        <span><a href="//www.51job.com/zunyi/">遵义</a></span>
+    </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+</div>
+
+<div class="layer_back_drop_class" id="area_channel_layer_backdrop" style="z-index:999;position:absolute;z-index:999;left:0;top:0;display:none"></div>
+<script>
+
+    $(document).ready(function(){
+        $(window).resize(function(){
+            if(!$("#area_channel_layer").is(":hidden"))
+            {
+                setLayerPosition();
+            }
+        });
+    });
+
+    window.areaChannelChangeTab = function(sName, oEvent)
+    {
+        $("#area_channel_layer_all").children().hide();
+        $("#area_channel_layer_list").children().removeClass("on");
+        $(oEvent).addClass("on");
+        $("#area_channel_layer_all").children("div[name='area_channel_div_" + sName + "']").show();
+        $("#area_channel_layer_backdrop").show();
+    };
+
+    window.openAreaChannelLayer = function()
+    {
+        setLayerPosition();
+        $("#area_channel_layer,#area_channel_layer_backdrop").show();
+    };
+
+    window.setLayerPosition = function()
+    {
+        var dl = $(document).scrollLeft();
+        var dt = $(document).scrollTop();
+        var ww = $(document).width();
+        var dwh = $(document).height();
+        var wwh = $(window).height();
+        var ow = $("#area_channel_layer").width();
+        var oh = $("#area_channel_layer").height();
+        var fLeft = (ww - ow) / 2 + dl;
+        var fTop = (wwh - oh) * 382 / 1000 + dt;//黄金比例
+        $("#area_channel_layer").css({'left': Math.max(parseInt(fLeft), dl), 'top': Math.max(parseInt(fTop), dt)});
+        $("#area_channel_layer_backdrop").css({'width': ww + 'px', 'height': dwh + 'px'});
+    }
+</script>    <div class="nag" id="topIndex">
+        <div class="in">
+            <a href="//www.51job.com"><img width="90" height="40" class="logo" id="logo" alt="前程无忧" src="//img02.51jobcdn.com/im/2016/logo/logo_blue.png"></a>
+                                                                                <img width="162" height="17" class="slogen" id="slogen" src="//img01.51jobcdn.com/im/2016/header/slogen.png?1544426366">
+                            
+            <!-- Jobs频道使用 start -->
+                            <a class="ctlink" href="//www.51job.com/beijing/" target="_blank">北京招聘频道</a>
+                        <!-- Jobs频道使用 end -->
+            
+<p class="nlink">
+    <a href="//www.51job.com/">首页</a>
+    <a href="https://search.51job.com">职位搜索</a>
+    <a href="javascript:openAreaChannelLayer();">地区频道</a>
+    <a href="https://mkt.51job.com/careerpost/default_res.php">职场资讯</a>
+    <a href="https://xy.51job.com/default-xs.php">校园招聘</a>
+    <a href="http://my.51job.com/my/gojingying.php?direct=https%3A%2F%2Fwww.51jingying.com%2Fcommon%2Fsearchcase.php%3F5CC4CE%3D1008" target="_blank">无忧精英</a>
+</p>        </div>
+    </div>
+    <!-- nag end -->
+    </div><div class="bdnav">
+    您所在的位置：<a href="https://jobs.51job.com">最新招聘信息</a>
+            <span>&gt;</span><a href="https://jobs.51job.com/all/">全国职位信息</a>
+                    <span>&gt;</span><a href="https://jobs.51job.com/beijing/">北京招聘网</a>
+                            <span>&gt;</span><a href="javascript:;">北京招聘信息</a>
+            </div>
+<div class="fbox">
+    <div class="in">
+        <div class="d_search Fm">
+            <form name="searchForm" id="searchForm" action="https://search.51job.com/jobsearch/search_result.php" method="post">
+                <div class="el on">
+                    <ul id="kwdTypeSelUl"><li>全文<em class="dicon Dm"></em></li><li><a onclick="kwdtypeChangeResult(1);" href="javascript:void(0);">公司</a></li></ul>
+                    <input name="keywordtype" id="keywordtype" type="hidden" value="2">
+                    <p class="ipt">
+                        <input name="keyword" class="mytxt at" id="kwdselectid" type="text" placeholder="请输入关键字" value="">
+                    </p>
+                    <p class="addbut" id="work_position_click">
+                        <input class="at c_999" id="work_position_input" type="button" value="工作地点">
+                        <em class="dicon"></em>
+                        <input name="jobarea" id="jobarea" type="hidden" value="">
+                    </p>
+                    <!-- 关键字联想 -->
+                    <div class="ul" id="KwdSearchResult" style="display: none;">
+                    </div>
+                    <!-- history -->
+                    <div class="ul" id="searchHistory" style="display: none; z-index: 4;">
+                        <span class="tl off"><span class="bg b_his">历史记录</span></span>
+                                                    <span class="li">暂无</span>
+                                            </div>
+                </div>
+                <button type="submit">搜 索</button>
+                            </form>
+        </div>
+        <p class="ht"><strong><a style="#6c6c6c" href="https://jobs.51job.com/hotjobs/">职位推荐：</a></strong><a href="https://jobs.51job.com/hj23080130/">初中英语教师/老师</a><a href="https://jobs.51job.com/hj33230795/">汽车美容技师</a><a href="https://jobs.51job.com/hj51411215/">物业保洁主管</a><a href="https://jobs.51job.com/hj11031388/">餐饮客服</a><a href="https://jobs.51job.com/hj45001616/">办公客服</a><a href="https://jobs.51job.com/hj24001664/">教师</a><a href="https://jobs.51job.com/hj20001729/">污水处理</a><a href="https://jobs.51job.com/hj26031959/">房产中介</a><a href="https://jobs.51job.com/hj38002196/">BI工程师</a><a href="https://jobs.51job.com/hj37002300/">单片机编程</a><a href="https://jobs.51job.com/hj09172335/">园林绿化</a><a href="https://jobs.51job.com/hj09182364/">建筑工</a><a href="https://jobs.51job.com/hj09182381/">工程造价师</a><a href="https://jobs.51job.com/hj23082426/">小学家教</a><a href="https://jobs.51job.com/hj04162522/">进出口结算</a>        </p>
+    </div>
+</div>
+<div class="maincenter">
+    <div class="filter">
+        <div class="tp">
+    </div>
+
+<div class="e">
+    <p><strong>主要城市：</strong><a href="https://jobs.51job.com/hy01/">不限</a></p>
+    <div class="lkst close"><a class="mk" href="https://jobs.51job.com/beijing/hy01/">北京</a><a href="https://jobs.51job.com/beijing-dcq/hy01/">东城区</a><a href="https://jobs.51job.com/beijing-xcq/hy01/">西城区</a><a href="https://jobs.51job.com/beijing-cyq/hy01/">朝阳区</a><a href="https://jobs.51job.com/beijing-ftq/hy01/">丰台区</a><a href="https://jobs.51job.com/beijing-sjsq/hy01/">石景山区</a><a href="https://jobs.51job.com/beijing-hdq/hy01/">海淀区</a><a href="https://jobs.51job.com/beijing-mtgq/hy01/">门头沟区</a><a href="https://jobs.51job.com/beijing-fsq/hy01/">房山区</a><a href="https://jobs.51job.com/beijing-tzq/hy01/">通州区</a><a href="https://jobs.51job.com/beijing-syq/hy01/">顺义区</a><a href="https://jobs.51job.com/beijing-cpq/hy01/">昌平区</a><a href="https://jobs.51job.com/beijing-dxq/hy01/">大兴区</a><a href="https://jobs.51job.com/beijing-hrq/hy01/">怀柔区</a><a href="https://jobs.51job.com/beijing-pgq/hy01/">平谷区</a><a href="https://jobs.51job.com/beijing-myq/hy01/">密云区</a><a href="https://jobs.51job.com/beijing-yqq/hy01/">延庆区</a></div>
+    <div class="clear"></div>
+    <i class="sicon Dm down">更多</i>
+</div>
+
+        <div class="e">
+        <p><strong>热门地标：</strong><a class="mk" href="https://jobs.51job.com/beijing/hy01/">不限</a></p>
+        <div class="lkst close"><a href="https://jobs.51job.com/beijing_hd1/hy01/">CBD</a><a href="https://jobs.51job.com/beijing_hd15/hy01/">金融街</a><a href="https://jobs.51job.com/beijing_hd38/hy01/">中关村</a><a href="https://jobs.51job.com/beijing_hd18/hy01/">马甸</a><a href="https://jobs.51job.com/beijing_hd11/hy01/">公主坟</a><a href="https://jobs.51job.com/beijing_hd4/hy01/">朝外</a><a href="https://jobs.51job.com/beijing_hd34/hy01/">亚运村</a><a href="https://jobs.51job.com/beijing_hd21/hy01/">上地</a><a href="https://jobs.51job.com/beijing_hd28/hy01/">望京</a><a href="https://jobs.51job.com/beijing_hd8/hy01/">东直门</a><a href="https://jobs.51job.com/beijing_hd32/hy01/">西直门</a><a href="https://jobs.51job.com/beijing_hd14/hy01/">建国门</a><a href="https://jobs.51job.com/beijing_hd20/hy01/">三元桥</a><a href="https://jobs.51job.com/beijing_hd27/hy01/">王府井</a><a href="https://jobs.51job.com/beijing_hd31/hy01/">西单</a><a href="https://jobs.51job.com/beijing_hd12/hy01/">国展中心</a><a href="https://jobs.51job.com/beijing_hd24/hy01/">世贸天阶</a><a href="https://jobs.51job.com/beijing_hd5/hy01/">朝阳门</a><a href="https://jobs.51job.com/beijing_hd6/hy01/">崇文门</a><a href="https://jobs.51job.com/beijing_hd33/hy01/">学院路</a></div>
+        <div class="clear"></div>
+        <i class="sicon Dm down">更多</i>
+    </div>
+
+        <div class="e">
+        <p><strong>地铁沿线：</strong><a class="mk" href="https://jobs.51job.com/beijing/hy01/">不限</a></p>
+        <div class="lkst close"><a href="https://jobs.51job.com/beijing_dt0100000100/hy01/">地铁1号线</a><a href="https://jobs.51job.com/beijing_dt0100000200/hy01/">地铁2号线</a><a href="https://jobs.51job.com/beijing_dt0100000300/hy01/">地铁4号线大兴线</a><a href="https://jobs.51job.com/beijing_dt0100000400/hy01/">地铁5号线</a><a href="https://jobs.51job.com/beijing_dt0100000500/hy01/">地铁6号线</a><a href="https://jobs.51job.com/beijing_dt0100000600/hy01/">地铁8号线</a><a href="https://jobs.51job.com/beijing_dt0100000700/hy01/">地铁10号线</a><a href="https://jobs.51job.com/beijing_dt0100000800/hy01/">地铁13号线</a><a href="https://jobs.51job.com/beijing_dt0100000900/hy01/">地铁14号线西段</a><a href="https://jobs.51job.com/beijing_dt0100001000/hy01/">地铁15号线</a><a href="https://jobs.51job.com/beijing_dt0100001100/hy01/">地铁16号线</a><a href="https://jobs.51job.com/beijing_dt0100001200/hy01/">8通线</a><a href="https://jobs.51job.com/beijing_dt0100001300/hy01/">机场快线</a><a href="https://jobs.51job.com/beijing_dt0100001400/hy01/">昌平线</a><a href="https://jobs.51job.com/beijing_dt0100001500/hy01/">亦庄线</a><a href="https://jobs.51job.com/beijing_dt0100001600/hy01/">房山线</a><a href="https://jobs.51job.com/beijing_dt0100001700/hy01/">地铁14号线东段</a><a href="https://jobs.51job.com/beijing_dt0100001800/hy01/">地铁7号线</a><a href="https://jobs.51job.com/beijing_dt0100001900/hy01/">地铁9号线</a><a href="https://jobs.51job.com/beijing_dt0100002000/hy01/">S1线</a><a href="https://jobs.51job.com/beijing_dt0100002100/hy01/">燕房线</a><a href="https://jobs.51job.com/beijing_dt0100002200/hy01/">西郊线</a><a href="https://jobs.51job.com/beijing_dt0100002300/hy01/">8号线南段</a></div>
+        <div class="clear"></div>
+        <i class="sicon Dm down">更多</i>
+    </div>
+
+
+<div class="e">
+    <p><strong>职位分类：</strong><a class="mk" href="https://jobs.51job.com/beijing/hy01/">不限</a></p>
+    <div class="lkst close"><a href="https://jobs.51job.com/beijing/hy01/jisuanjiyingjian/">计算机硬件</a><a href="https://jobs.51job.com/beijing/hy01/jisuanjiruanjian/">计算机软件</a><a href="https://jobs.51job.com/beijing/hy01/hulianwang/">互联网/电子商务/网游</a><a href="https://jobs.51job.com/beijing/hy01/it-guanli/">IT-管理</a><a href="https://jobs.51job.com/beijing/hy01/jishuzhichi/">IT-品管、技术支持及其它</a><a href="https://jobs.51job.com/beijing/hy01/tongxinjishukaifa/">通信技术开发及应用</a><a href="https://jobs.51job.com/beijing/hy01/dianzi/">电子/电器/半导体/仪器仪表</a><a href="https://jobs.51job.com/beijing/hy01/xiaoshouguanli/">销售管理</a><a href="https://jobs.51job.com/beijing/hy01/xiaoshourenyuan/">销售人员</a><a href="https://jobs.51job.com/beijing/hy01/xiaoshouxingzheng/">销售行政及商务</a><a href="https://jobs.51job.com/beijing/hy01/kefuzhichi/">客服及支持</a><a href="https://jobs.51job.com/beijing/hy01/caiwushenji/">财务/审计/税务</a><a href="https://jobs.51job.com/beijing/hy01/jinrongzhengquan/">金融/证券/期货/投资</a><a href="https://jobs.51job.com/beijing/hy01/yinhang/">银行</a><a href="https://jobs.51job.com/beijing/hy01/baoxian/">保险</a><a href="https://jobs.51job.com/beijing/hy01/shengchanyingyun/">生产/营运</a><a href="https://jobs.51job.com/beijing/hy01/zhilianganquan/">质量安全</a><a href="https://jobs.51job.com/beijing/hy01/gongchengjixie/">工程/机械/能源</a><a href="https://jobs.51job.com/beijing/hy01/qichezhizao/">汽车制造</a><a href="https://jobs.51job.com/beijing/hy01/qichexiaoshou/">汽车销售与服务</a><a href="https://jobs.51job.com/beijing/hy01/jigongpugong/">技工普工</a><a href="https://jobs.51job.com/beijing/hy01/fuzhuangfangzhi/">服装/纺织/皮革</a><a href="https://jobs.51job.com/beijing/hy01/caigou/">采购</a><a href="https://jobs.51job.com/beijing/hy01/maoyi/">贸易</a><a href="https://jobs.51job.com/beijing/hy01/wuliucangchu/">物流/仓储</a><a href="https://jobs.51job.com/beijing/hy01/shengwuzhiyao/">生物/制药/医疗器械</a><a href="https://jobs.51job.com/beijing/hy01/huagong/">化工</a><a href="https://jobs.51job.com/beijing/hy01/yiliao/">医院/医疗/护理</a><a href="https://jobs.51job.com/beijing/hy01/guanggao/">广告</a><a href="https://jobs.51job.com/beijing/hy01/gongguanmeijie/">公关/媒介</a><a href="https://jobs.51job.com/beijing/hy01/shichangyingxiao/">市场/营销</a><a href="https://jobs.51job.com/beijing/hy01/yingshimeiti/">影视/媒体</a><a href="https://jobs.51job.com/beijing/hy01/bianjichuban/">编辑出版</a><a href="https://jobs.51job.com/beijing/hy01/yishusheji/">艺术/设计</a><a href="https://jobs.51job.com/beijing/hy01/jianzhugongcheng/">建筑工程与装潢</a><a href="https://jobs.51job.com/beijing/hy01/fangdichankaifa/">房地产开发</a><a href="https://jobs.51job.com/beijing/hy01/fangdichanxiaoshou/">房地产销售与中介</a><a href="https://jobs.51job.com/beijing/hy01/wuyeguanli/">物业管理</a><a href="https://jobs.51job.com/beijing/hy01/renliziyuan/">人力资源</a><a href="https://jobs.51job.com/beijing/hy01/gaojiguanli/">高级管理</a><a href="https://jobs.51job.com/beijing/hy01/xingzhenghouqin/">行政/后勤</a><a href="https://jobs.51job.com/beijing/hy01/zixunguwen/">咨询/顾问</a><a href="https://jobs.51job.com/beijing/hy01/lvshifawu/">律师/法务/合规</a><a href="https://jobs.51job.com/beijing/hy01/jiaoshi/">教师</a><a href="https://jobs.51job.com/beijing/hy01/peixun/">培训</a><a href="https://jobs.51job.com/beijing/hy01/keyan/">科研</a><a href="https://jobs.51job.com/beijing/hy01/canyinfuwu/">餐饮服务</a><a href="https://jobs.51job.com/beijing/hy01/jiudianlvyou/">酒店旅游</a><a href="https://jobs.51job.com/beijing/hy01/meirongbaojian/">美容保健</a><a href="https://jobs.51job.com/beijing/hy01/baihuolingshou/">百货零售</a><a href="https://jobs.51job.com/beijing/hy01/jiaotongyunshu/">交通运输服务</a><a href="https://jobs.51job.com/beijing/hy01/jiazhengbaojie/">家政保洁</a><a href="https://jobs.51job.com/beijing/hy01/gongwuyuan/">公务员</a><a href="https://jobs.51job.com/beijing/hy01/fanyi/">翻译</a><a href="https://jobs.51job.com/beijing/hy01/zaixiaoxuesheng/">在校学生</a><a href="https://jobs.51job.com/beijing/hy01/peixunshixi/">储备干部/培训生/实习生</a><a href="https://jobs.51job.com/beijing/hy01/jianzhi/">兼职</a><a href="https://jobs.51job.com/beijing/hy01/huanbao/">环保</a><a href="https://jobs.51job.com/beijing/hy01/nonglinmuyu/">农/林/牧/渔</a><a href="https://jobs.51job.com/beijing/hy01/wangdiantaobao/">网店淘宝</a><a href="https://jobs.51job.com/beijing/hy01/jixiejichuang/">机械机床</a><a href="https://jobs.51job.com/beijing/hy01/yinshuabaozhuang/">印刷包装</a><a href="https://jobs.51job.com/beijing/hy01/yundongjianshen/">运动健身</a><a href="https://jobs.51job.com/beijing/hy01/xiuxianyule/">休闲娱乐</a><a href="https://jobs.51job.com/beijing/hy01/others/">其他</a>    </div>
+    <div class="clear"></div>
+    <i class="down sicon Dm">更多</i>
+</div>
+
+<div class="bt b2" style="z-index:2">
+    <strong>更多：</strong>
+    <div class="flst">
+        <div class="l">
+            <div>
+                <em class="sicon Dm"></em><font></font>
+                <span>行业分类</span>
+                <ul class="bx">
+                                                                    <li><a class="mk" href="https://jobs.51job.com/beijing/hy01/">计算机软件</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy37/">计算机硬件</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy38/">计算机服务(系统、数据服务、维修)</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy31/">通信/电信/网络设备</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy39/">通信/电信运营、增值服务</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy32/">互联网/电子商务</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy40/">网络游戏</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy02/">电子技术/半导体/集成电路</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy35/">仪器仪表/工业自动化</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy41/">会计/审计</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy03/">金融/投资/证券</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy42/">银行</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy43/">保险</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy62/">信托/担保/拍卖/典当</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy04/">贸易/进出口</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy22/">批发/零售</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy05/">快速消费品(食品、饮料、化妆品)</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy06/">服装/纺织/皮革</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy44/">家具/家电/玩具/礼品</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy60/">奢侈品/收藏品/工艺品/珠宝</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy45/">办公用品及设备</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy14/">机械/设备/重工</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy33/">汽车及零配件</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy08/">制药/生物工程</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy46/">医疗/护理/卫生</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy47/">医疗设备/器械</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy12/">广告</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy48/">公关/市场推广/会展</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy49/">影视/媒体/艺术/文化传播</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy13/">文字媒体/出版</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy15/">印刷/包装/造纸</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy26/">房地产</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy09/">建筑/建材/工程</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy50/">家居/室内设计/装潢</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy51/">物业管理/商业中心</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy34/">中介服务</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy63/">租赁服务</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy07/">专业服务(咨询、人力资源、财会)</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy59/">外包服务</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy52/">检测，认证</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy18/">法律</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy23/">教育/培训/院校</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy24/">学术/科研</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy11/">餐饮业</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy53/">酒店/旅游</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy17/">娱乐/休闲/体育</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy54/">美容/保健</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy27/">生活服务</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy21/">交通/运输/物流</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy55/">航天/航空</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy19/">石油/化工/矿产/地质</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy16/">采掘业/冶炼</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy36/">电气/电力/水利</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy61/">新能源</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy56/">原材料和加工</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy28/">政府/公共事业</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy57/">非营利组织</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy20/">环保</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy29/">农/林/牧/渔</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy58/">多元化业务集团公司</a></li>
+                                    </ul>
+            </div>
+        </div>
+        <div class="l">
+            <div>
+                <em class="sicon Dm"></em><font></font>
+                <span>工作经验</span>
+                <ul>
+                                                                    <li><a href="https://jobs.51job.com/beijing/we01_hy01/">无经验</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/we02_hy01/">1-3年</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/we03_hy01/">3-5年</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/we04_hy01/">5-10年</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/we05_hy01/">10年以上</a></li>
+                                    </ul>
+            </div>
+        </div>
+        <div class="l">
+            <div>
+                <em class="sicon Dm"></em><font></font>
+                <span>薪酬福利</span>
+                <ul class="bx">
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc01_hy01/">五险一金</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc02_hy01/">带薪年假</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc03_hy01/">节日福利</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc04_hy01/">周末双休</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc05_hy01/">绩效奖金</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc06_hy01/">员工旅游</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc07_hy01/">立即上岗</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc08_hy01/">专业培训</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc09_hy01/">全勤奖</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc10_hy01/">年终双薪</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc11_hy01/">定期体检</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc12_hy01/">交通补贴</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc13_hy01/">通讯补贴</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc14_hy01/">出差补贴</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc15_hy01/">包住</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc16_hy01/">人才推荐奖</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc17_hy01/">高温补贴</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc18_hy01/">包吃包住</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc19_hy01/">弹性工作</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc20_hy01/">补充医疗保险</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc21_hy01/">年终分红</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc22_hy01/">免费班车</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc23_hy01/">出国机会</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc24_hy01/">住房补贴</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc25_hy01/">包吃</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc26_hy01/">股票期权</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc27_hy01/">采暖补贴</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc28_hy01/">做一休一</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc29_hy01/">加班补贴</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc30_hy01/">餐饮补贴</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc31_hy01/">补充公积金</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc32_hy01/">补充养老保险</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc33_hy01/">年终奖金</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc34_hy01/">季度奖金</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc35_hy01/">团队聚餐</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc36_hy01/">每年多次调薪</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc37_hy01/">落户办理</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc38_hy01/">免息房贷</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc39_hy01/">全员持股</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc40_hy01/">子女教育津贴</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc41_hy01/">子女保险</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc42_hy01/">家人免费体检</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc43_hy01/">家属免费医疗</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc44_hy01/">外派津贴</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc45_hy01/">电脑补助</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc46_hy01/">油费补贴</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc47_hy01/">职位津贴</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc48_hy01/">配车</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc49_hy01/">不加班</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc50_hy01/">科研奖励</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc51_hy01/">在职研究生培养</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc52_hy01/">健身俱乐部</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc53_hy01/">探亲假</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc54_hy01/">母婴室</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc55_hy01/">做五休二</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc56_hy01/">做六休一</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc57_hy01/">无试用期</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc58_hy01/">工作服</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/xc59_hy01/">夫妻房</a></li>
+                                    </ul>
+            </div>
+        </div>
+        <div class="l">
+            <div>
+                <em class="sicon Dm"></em><font></font>
+                <span>公司规模</span>
+                <ul>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy01_cs01/">少于50人</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy01_cs02/">50-150人</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy01_cs03/">150-500人</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy01_cs04/">500-1000人</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy01_cs05/">1000-5000人</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy01_cs06/">5000-10000人</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy01_cs07/">10000人以上</a></li>
+                                    </ul>
+            </div>
+        </div>
+        <div class="l">
+            <div>
+                <em class="sicon Dm"></em><font></font>
+                <span>公司性质</span>
+                <ul>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy01_cn04/">国企</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy01_cn01/">外资(欧美)</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy01_cn02/">外资(非欧美)</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy01_cn10/">上市公司</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy01_cn03/">合资</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy01_cn05/">民营公司</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy01_cn06/">外企代表处</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy01_cn07/">政府机关</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy01_cn08/">事业单位</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy01_cn09/">非营利组织</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy01_cn11/">创业公司</a></li>
+                                    </ul>
+            </div>
+        </div>
+        <div class="l">
+            <div>
+                <em class="sicon Dm"></em><font></font>
+                <span>月薪范围</span>
+                <ul>
+                                                                    <li><a href="https://jobs.51job.com/beijing/yx01_hy01/">2千以下</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/yx02_hy01/">2-3千</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/yx03_hy01/">3-4.5千</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/yx04_hy01/">4.5-6千</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/yx05_hy01/">6-8千</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/yx06_hy01/">0.8-1万</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/yx07_hy01/">1-1.5万</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/yx08_hy01/">1.5-2万</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/yx09_hy01/">2-3万</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/yx10_hy01/">3-4万</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/yx11_hy01/">4-5万</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/yx12_hy01/">5万以上</a></li>
+                                    </ul>
+            </div>
+        </div>
+        <div class="l">
+            <div>
+                <em class="sicon Dm"></em><font></font>
+                <span>工作类型</span>
+                <ul>
+                                                                    <li><a href="https://jobs.51job.com/beijing/wt01_hy01/">全职</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/wt02_hy01/">兼职</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/wt03_hy01/">实习全职</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/wt04_hy01/">实习兼职</a></li>
+                                    </ul>
+            </div>
+        </div>
+        <div class="l">
+            <div>
+                <em class="sicon Dm"></em><font></font>
+                <span>发布时间</span>
+                <ul>
+                                                                    <li><a href="https://jobs.51job.com/beijing/rt0_hy01/">24小时内</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/rt1_hy01/">近三天</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/rt2_hy01/">近一周</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/rt3_hy01/">近一月</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/rt4_hy01/">其他</a></li>
+                                    </ul>
+            </div>
+        </div>
+        <div class="l">
+            <div>
+                <em class="sicon Dm"></em><font></font>
+                <span>学历要求</span>
+                <ul>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy01_ed01/">初中及以下</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy01_ed02/">高中/中技/中专</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy01_ed03/">大专</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy01_ed04/">本科</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy01_ed05/">硕士</a></li>
+                                                                    <li><a href="https://jobs.51job.com/beijing/hy01_ed06/">博士</a></li>
+                                    </ul>
+            </div>
+        </div>
+        <p class="clear"></p>
+    </div>
+</div>
+<div class="bt" style="z-index:1">
+    <strong class="or">已选条件：</strong>
+    <div class="clist">
+                    <span>北京<a href="https://jobs.51job.com/hy01/"><em class="sicon Dm"></em></a></span><span>计算机软件<a href="https://jobs.51job.com/beijing/"><em class="sicon Dm"></em></a></span>                <div class="clear"></div>
+        <a class="qx sicon Dm" href="https://jobs.51job.com/all/">清除条件</a>
+    </div>
+</div>    </div>
+    <div class="mcon">
+        <div class="left">
+                <div class="dw_tlc">
+        <div class="chall"><span><em class="check" id="top_select_all_jobs_checkbox" onclick="javascript:SelectAllCheckbox(this, 'delivery_em')" name="select_all"></em></span>全选</div>
+        <div class="op"><span class="but_sq uck" onclick="delivery('delivery_jobid', '2', '//i.51job.com', 'c', '', '02', '02', '//img01.51jobcdn.com');"><i class="dicon Dm"></i>申请职位</span></div>
+    </div>
+    <div class="detlist gbox">
+        <!-- first -->
+                    <div class="e ">
+                <em class="check" onclick="checkboxClick(this)" name="delivery_em"></em>
+                <input name="delivery_jobid" class="checkbox" style="display:none" type="checkbox" value="114081744" jt="0">
+                <p class="info"><span class="title"><a title="广告销售-CPC丽人事业部（北京）" href="https://jobs.51job.com/beijing/114081744.html?s=02" target="_blank">广告销售-CPC丽人事业部（北京）</a></span><a title="美团点评" class="name" href="https://jobs.51job.com/beijing/co2381155.html" target="_blank">美团点评</a><span class="location name">北京</span><span class="location">0.8-1.5万/月</span><span class="time">09-02</span></p>
+                <p class="order">学历要求：大专<span>|</span>工作经验：<span>|</span>公司性质：合资<span>|</span>公司规模：10000人以上</p>
+                <p title="岗位职责：1、通过销售拜访，了解商户的业务现状与实际需求并结合消费者的消费动向，制定个性化营销方案，与商户谈判并达成合作；2、执行公司的销售策略及政策，达成业绩目标；3、与公司各部门配合，及时处理用户的反馈、投诉和建议，提高用户满意度；4、归档和更新所有目标商户拜访、协议、服务条款等有关的文件和数据，确保信息在数据库中得到正确的维护；任职要求：1、大专及以上学历，有销售工作经验优先；2、有很强的学习能力和适应能力，适应互联网行业的快速发展，精力充沛，具备在高强压力下出色完成任务的能力；3、具备较强的人际沟通及逻辑思维能力，思维敏捷，能够准确把握产品优势和客户心理，高效整合内外部资源促成销售业绩；4、富有激情和创新理念，追求个人职业发展和公司利益的双赢；5、热爱销售，善于挑战，积极乐观，有强烈的成功欲望和企图心；6、为人正直，诚实可靠，以公司利益为重；" class="text">岗位职责：1、通过销售拜访，了解商户的业务现状与实际需求并结合消费者的消费动向，制定个性化营销方案，与商户谈判并达成合作；2、执行公司的销售策略及政策，达成业绩目标；3、与公司各部门配合，及时处理用户的反馈、投诉和建议，提高用户满意度；4、归档和更新所有目标商户拜访、协议、服务条款等有关的文件和数据，确保信息在数据库中得到正确的维护；任职要求：1、大专及以上学历，有销售工作经验优先；2、有很强的学习能力和适应能力，适应互联网行业的快速发展，精力充沛，具备在高强压力下出色完成任务的能力；3、具备较强的人际沟通及逻辑思维能力，思维敏捷，能够准确把握产品优势和客户心理，高效整合内外部资源促成销售业绩；4、富有激情和创新理念，追求个人职业发展和公司利益的双赢；5、热爱销售，善于挑战，积极乐观，有强烈的成功欲望和企图心；6、为人正直，诚实可靠，以公司利益为重；</p>
+                <p class="opat">
+                    <input name="hidJobID114081744" id="hidJobID114081744" type="hidden" value="114081744" jt="0">
+                    <a class="sq sicon Dm" onclick="delivery('hidJobID114081744', '1', '//i.51job.com', 'c', '', '02', '02', '//img03.51jobcdn.com');return false;" href="javascript:void(0);">立即申请</a><br><a class="sc sicon Dm" onclick="saveCollection('114081744');" href="javascript:void(0);">收藏</a>
+                </p>
+            </div>
+                    <div class="e ">
+                <em class="check" onclick="checkboxClick(this)" name="delivery_em"></em>
+                <input name="delivery_jobid" class="checkbox" style="display:none" type="checkbox" value="116723002" jt="0">
+                <p class="info"><span class="title"><a title="高级会计（国内广告收入方向）" href="https://jobs.51job.com/beijing/116723002.html?s=02" target="_blank">高级会计（国内广告收入方向）</a></span><a title="字节跳动" class="name" href="https://jobs.51job.com/beijing/co2758227.html" target="_blank">字节跳动</a><span class="location name">北京</span><span class="location">2-3万/月</span><span class="time">09-02</span></p>
+                <p class="order">学历要求：本科<span>|</span>工作经验：5-7年<span>|</span>公司性质：民营公司<span>|</span>公司规模：10000人以上</p>
+                <p title="职位描述:1、负责国内广告业务线收入、收退款等账务核算及核对等相关工作；2、负责国内广告业务线的收入合同、退款、开票等审核工作；3、负责与业务线相关的业务系统、财务系统等相关系统的优化改进；4、负责与业务线相关的流程、规范、模板等的搭建/优化；5、配合上级安排的其他日常工作。职位要求:1、需具备较强的逻辑思维能力、责任心及良好的工作习惯；对事项有较强的判断力；2、了解互联网广告收入模式及相关流程及财务处理；3、大学本科及以上学历，具有CPA证书者优先；4、三年以上会计相关工作经验，***有oracle财务软件使用经验。" class="text">职位描述:1、负责国内广告业务线收入、收退款等账务核算及核对等相关工作；2、负责国内广告业务线的收入合同、退款、开票等审核工作；3、负责与业务线相关的业务系统、财务系统等相关系统的优化改进；4、负责与业务线相关的流程、规范、模板等的搭建/优化；5、配合上级安排的其他日常工作。职位要求:1、需具备较强的逻辑思维能力、责任心及良好的工作习惯；对事项有较强的判断力；2、了解互联网广告收入模式及相关流程及财务处理；3、大学本科及以上学历，具有CPA证书者优先；4、三年以上会计相关工作经验，***有oracle财务软件使用经验。</p>
+                <p class="opat">
+                    <input name="hidJobID116723002" id="hidJobID116723002" type="hidden" value="116723002" jt="0">
+                    <a class="sq sicon Dm" onclick="delivery('hidJobID116723002', '1', '//i.51job.com', 'c', '', '02', '02', '//img01.51jobcdn.com');return false;" href="javascript:void(0);">立即申请</a><br><a class="sc sicon Dm" onclick="saveCollection('116723002');" href="javascript:void(0);">收藏</a>
+                </p>
+            </div>
+                    <div class="e ">
+                <em class="check" onclick="checkboxClick(this)" name="delivery_em"></em>
+                <input name="delivery_jobid" class="checkbox" style="display:none" type="checkbox" value="101414012" jt="0">
+                <p class="info"><span class="title"><a title="业务监察 / 销售监察" href="https://jobs.51job.com/beijing-cyq/101414012.html?s=02" target="_blank">业务监察 / 销售监察</a></span><a title="美团点评" class="name" href="https://jobs.51job.com/beijing-cyq/co4022612.html" target="_blank">美团点评</a><span class="location name">北京-朝阳区</span><span class="location">1-2万/月</span><span class="time">09-02</span></p>
+                <p class="order">学历要求：大专<span>|</span>工作经验：3-4年<span>|</span>公司性质：合资<span>|</span>公司规模：10000人以上</p>
+                <p title="岗位职责：1、协助搭建事业群合规调查及管理体系，协助跟进合规优化相关项目；2、负责对举报信息、内部人员涉嫌违纪行为调查、取证及处罚跟进等工作；3、监督业务的合规运行，稽核业务开展的过程及结果真实性，进而判责跟进处理结果；4、跟进优化调查中发现的系统及流程漏洞；5、负责公司内部合规宣导培训；岗位要求：1、三年以上互联网公司合规、内控、审计、反舞弊相关工作经验，具有独立案件调查经验及反舞弊从业经验的优先；2、具备较强的沟通协调、逻辑分析能力，有良好的口头表达、文字撰写能力，并能抗压独立完成工作；3、原则性及保密意识强，为人正直自律，踏实稳重，具有高度的诚信观念，注重团队合作；4、熟悉互联网产品及相关行业，了解国家相关政策法规等；6、根据业务需要接受偶尔出差" class="text">岗位职责：1、协助搭建事业群合规调查及管理体系，协助跟进合规优化相关项目；2、负责对举报信息、内部人员涉嫌违纪行为调查、取证及处罚跟进等工作；3、监督业务的合规运行，稽核业务开展的过程及结果真实性，进而判责跟进处理结果；4、跟进优化调查中发现的系统及流程漏洞；5、负责公司内部合规宣导培训；岗位要求：1、三年以上互联网公司合规、内控、审计、反舞弊相关工作经验，具有独立案件调查经验及反舞弊从业经验的优先；2、具备较强的沟通协调、逻辑分析能力，有良好的口头表达、文字撰写能力，并能抗压独立完成工作；3、原则性及保密意识强，为人正直自律，踏实稳重，具有高度的诚信观念，注重团队合作；4、熟悉互联网产品及相关行业，了解国家相关政策法规等；6、根据业务需要接受偶尔出差</p>
+                <p class="opat">
+                    <input name="hidJobID101414012" id="hidJobID101414012" type="hidden" value="101414012" jt="0">
+                    <a class="sq sicon Dm" onclick="delivery('hidJobID101414012', '1', '//i.51job.com', 'c', '', '02', '02', '//img04.51jobcdn.com');return false;" href="javascript:void(0);">立即申请</a><br><a class="sc sicon Dm" onclick="saveCollection('101414012');" href="javascript:void(0);">收藏</a>
+                </p>
+            </div>
+                    <div class="e ">
+                <em class="check" onclick="checkboxClick(this)" name="delivery_em"></em>
+                <input name="delivery_jobid" class="checkbox" style="display:none" type="checkbox" value="116720850" jt="0">
+                <p class="info"><span class="title"><a title="品牌文化专员-质量方向" href="https://jobs.51job.com/beijing-hdq/116720850.html?s=02" target="_blank">品牌文化专员-质量方向</a></span><a title="小米通讯技术有限公司" class="name" href="https://jobs.51job.com/beijing-hdq/co2449752.html" target="_blank">小米通讯技术有限公司</a><span class="location name">北京-海淀区</span><span class="location">1-2万/月</span><span class="time">09-02</span></p>
+                <p class="order">学历要求：本科<span>|</span>工作经验：1年<span>|</span>公司性质：民营公司<span>|</span>公司规模：10000人以上</p>
+                <p title="职责：1.根据集团质量规划，策划质量主题活动和激励措施；2.负责组织质量文化活动的落地执行与传播；3.总结质量成效与经验，策划相应的宣传、展示、传播活动；4.负责质量公众号、质量内刊的编辑运营，提高影响力与关注度；5.完成其他临时性工作。要求：1.本科及以上学历，了解质量管理；2.传媒专业或有过市场传媒经验者优先；3.较强的文字表达能力，写作能力强优先；4.较强沟通和执行力；5.较强的管理协调能力；" class="text">职责：1.根据集团质量规划，策划质量主题活动和激励措施；2.负责组织质量文化活动的落地执行与传播；3.总结质量成效与经验，策划相应的宣传、展示、传播活动；4.负责质量公众号、质量内刊的编辑运营，提高影响力与关注度；5.完成其他临时性工作。要求：1.本科及以上学历，了解质量管理；2.传媒专业或有过市场传媒经验者优先；3.较强的文字表达能力，写作能力强优先；4.较强沟通和执行力；5.较强的管理协调能力；</p>
+                <p class="opat">
+                    <input name="hidJobID116720850" id="hidJobID116720850" type="hidden" value="116720850" jt="0">
+                    <a class="sq sicon Dm" onclick="delivery('hidJobID116720850', '1', '//i.51job.com', 'c', '', '02', '02', '//img02.51jobcdn.com');return false;" href="javascript:void(0);">立即申请</a><br><a class="sc sicon Dm" onclick="saveCollection('116720850');" href="javascript:void(0);">收藏</a>
+                </p>
+            </div>
+                    <div class="e ">
+                <em class="check" onclick="checkboxClick(this)" name="delivery_em"></em>
+                <input name="delivery_jobid" class="checkbox" style="display:none" type="checkbox" value="116723523" jt="0">
+                <p class="info"><span class="title"><a title="央企大客户销售(J10212)" href="https://jobs.51job.com/beijing-cyq/116723523.html?s=02" target="_blank">央企大客户销售(J10212)</a></span><a title="北京知道创宇信息技术股份有限公司" class="name" href="https://jobs.51job.com/beijing-cyq/co3148100.html" target="_blank">北京知道创宇信息技术股份有限公司</a><span class="location name">北京-朝阳区</span><span class="location">1-1.5万/月</span><span class="time">09-02</span></p>
+                <p class="order">学历要求：本科<span>|</span>工作经验：3-4年<span>|</span>公司性质：民营公司<span>|</span>公司规模：500-1000人</p>
+                <p title="工作职责:1、负责完成下达的年度销售任务及个人任务指标；2、负责央企客户的开发与日常管理工作；3、负责制订央企客户的销售策略和销售计划（年、季、月）；4、负责营销活动的跟踪、确认、执行；5、负责项目招投标工作、商务谈判和合同收款；6、负责客户满意度提升和危机公关；任职资格:1、全日制本科以上学历，市场营销、计算机相关专业；2、形象气质良好；3、年龄35岁以下，3年以上销售工作经验；4、有安全服务产品、SaaS软件销售经验优先；有政府、大型企业资源者优先；5、具有央企销售经验优先；6、具备较高的商务文案编写能力；7、具备项目统筹能力，能够独立完成商务拓展；8、良好的团队意识与敬业精神，积极主动、务实干练，执行力强，能承受较大的工作压力。" class="text">工作职责:1、负责完成下达的年度销售任务及个人任务指标；2、负责央企客户的开发与日常管理工作；3、负责制订央企客户的销售策略和销售计划（年、季、月）；4、负责营销活动的跟踪、确认、执行；5、负责项目招投标工作、商务谈判和合同收款；6、负责客户满意度提升和危机公关；任职资格:1、全日制本科以上学历，市场营销、计算机相关专业；2、形象气质良好；3、年龄35岁以下，3年以上销售工作经验；4、有安全服务产品、SaaS软件销售经验优先；有政府、大型企业资源者优先；5、具有央企销售经验优先；6、具备较高的商务文案编写能力；7、具备项目统筹能力，能够独立完成商务拓展；8、良好的团队意识与敬业精神，积极主动、务实干练，执行力强，能承受较大的工作压力。</p>
+                <p class="opat">
+                    <input name="hidJobID116723523" id="hidJobID116723523" type="hidden" value="116723523" jt="0">
+                    <a class="sq sicon Dm" onclick="delivery('hidJobID116723523', '1', '//i.51job.com', 'c', '', '02', '02', '//img02.51jobcdn.com');return false;" href="javascript:void(0);">立即申请</a><br><a class="sc sicon Dm" onclick="saveCollection('116723523');" href="javascript:void(0);">收藏</a>
+                </p>
+            </div>
+                    <div class="e ">
+                <em class="check" onclick="checkboxClick(this)" name="delivery_em"></em>
+                <input name="delivery_jobid" class="checkbox" style="display:none" type="checkbox" value="116726233" jt="0">
+                <p class="info"><span class="title"><a title="运维开发工程师" href="https://jobs.51job.com/beijing-xcq/116726233.html?s=02" target="_blank">运维开发工程师</a></span><a title="南通东华软件有限公司" class="name" href="https://jobs.51job.com/beijing-xcq/co4429169.html" target="_blank">南通东华软件有限公司</a><span class="location name">北京-西城区</span><span class="location">1-1.5万/月</span><span class="time">09-02</span></p>
+                <p class="order">学历要求：本科<span>|</span>工作经验：3-4年<span>|</span>公司性质：上市公司<span>|</span>公司规模：150-500人</p>
+                <p title="职位职责&nbsp;                 主要是开发，但是也能运维的                                1、 负责生产系统的日常维护，包括负载均衡、数据库集群(MySQL、SQLServer)的日常、安装、升级、建设规划、性能监控、备份恢复、分库分表、迁移、健康性检查及故障诊断排除。                                 2、负责对运维团队培训，提升整体服务水平。                                 3、负责编写问题的解决方案和测试报告；上线方案及其他相关的上线文档。               &nbsp;任职要求&nbsp;1、拥有计算机科学，工程或相关领域的学士学位。 2、拥有3年以上的DevOps工程师经验或同等的软件工程经验。 3、具有Python、Git和GitHub等已知的DevOps工具的相关使用经验。 4、熟悉was、tomcat等常见中间件，能够进行问题定位和性能调优。 5、具有cmd、powershell、shell等脚本语言编写经验。 6、具有数据库和SQL的知识。 7、具有网络，服务器，操作系统和应用程序状态监视方面的经验。 8、具有代码部署工具（Puppet，Ansible和Chef）的维护经验。" class="text">职位职责&nbsp;                 主要是开发，但是也能运维的                                1、 负责生产系统的日常维护，包括负载均衡、数据库集群(MySQL、SQLServer)的日常、安装、升级、建设规划、性能监控、备份恢复、分库分表、迁移、健康性检查及故障诊断排除。                                 2、负责对运维团队培训，提升整体服务水平。                                 3、负责编写问题的解决方案和测试报告；上线方案及其他相关的上线文档。               &nbsp;任职要求&nbsp;1、拥有计算机科学，工程或相关领域的学士学位。 2、拥有3年以上的DevOps工程师经验或同等的软件工程经验。 3、具有Python、Git和GitHub等已知的DevOps工具的相关使用经验。 4、熟悉was、tomcat等常见中间件，能够进行问题定位和性能调优。 5、具有cmd、powershell、shell等脚本语言编写经验。 6、具有数据库和SQL的知识。 7、具有网络，服务器，操作系统和应用程序状态监视方面的经验。 8、具有代码部署工具（Puppet，Ansible和Chef）的维护经验。</p>
+                <p class="opat">
+                    <input name="hidJobID116726233" id="hidJobID116726233" type="hidden" value="116726233" jt="0">
+                    <a class="sq sicon Dm" onclick="delivery('hidJobID116726233', '1', '//i.51job.com', 'c', '', '02', '02', '//img01.51jobcdn.com');return false;" href="javascript:void(0);">立即申请</a><br><a class="sc sicon Dm" onclick="saveCollection('116726233');" href="javascript:void(0);">收藏</a>
+                </p>
+            </div>
+                    <div class="e ">
+                <em class="check" onclick="checkboxClick(this)" name="delivery_em"></em>
+                <input name="delivery_jobid" class="checkbox" style="display:none" type="checkbox" value="116726162" jt="0">
+                <p class="info"><span class="title"><a title="PHP开发工程师" href="https://jobs.51job.com/beijing-hdq/116726162.html?s=02" target="_blank">PHP开发工程师</a></span><a title="中讯志远（武汉）科技有限公司" class="name" href="https://jobs.51job.com/beijing-hdq/co3605419.html" target="_blank">中讯志远（武汉）科技有限公司</a><span class="location name">北京-海淀区</span><span class="location">0.8-1万/月</span><span class="time">09-02</span></p>
+                <p class="order">学历要求：本科<span>|</span>工作经验：2年<span>|</span>公司性质：民营公司<span>|</span>公司规模：50-150人</p>
+                <p title="岗位要求：一般知识：计算机相关专业，本科及以上学历，2年及以上PHP开发经验专业知识：熟悉PHP主流框架熟悉Javascript前端框架熟悉PHP/Nginx/MySQL/NoSQL项目经验：PHP软件开发经验Web前端开发经验有Laravel或者Vue使用经验者优先；有Linux开发经验者优先其他要求：有良好的时间、流程、产品意识；有较好的沟通交流能力，能够迅速融入团队" class="text">岗位要求：一般知识：计算机相关专业，本科及以上学历，2年及以上PHP开发经验专业知识：熟悉PHP主流框架熟悉Javascript前端框架熟悉PHP/Nginx/MySQL/NoSQL项目经验：PHP软件开发经验Web前端开发经验有Laravel或者Vue使用经验者优先；有Linux开发经验者优先其他要求：有良好的时间、流程、产品意识；有较好的沟通交流能力，能够迅速融入团队</p>
+                <p class="opat">
+                    <input name="hidJobID116726162" id="hidJobID116726162" type="hidden" value="116726162" jt="0">
+                    <a class="sq sicon Dm" onclick="delivery('hidJobID116726162', '1', '//i.51job.com', 'c', '', '02', '02', '//img02.51jobcdn.com');return false;" href="javascript:void(0);">立即申请</a><br><a class="sc sicon Dm" onclick="saveCollection('116726162');" href="javascript:void(0);">收藏</a>
+                </p>
+            </div>
+                    <div class="e ">
+                <em class="check" onclick="checkboxClick(this)" name="delivery_em"></em>
+                <input name="delivery_jobid" class="checkbox" style="display:none" type="checkbox" value="95943071" jt="0">
+                <p class="info"><span class="title"><a title="C/S软件开发工程师" href="https://jobs.51job.com/beijing-dxq/95943071.html?s=02" target="_blank">C/S软件开发工程师</a></span><a title="北京吉亚斯科技有限公司" class="name" href="https://jobs.51job.com/beijing-dxq/co4721164.html" target="_blank">北京吉亚斯科技有限公司</a><span class="location name">北京-大兴区</span><span class="location">0.6-1.2万/月</span><span class="time">09-02</span></p>
+                <p class="order">学历要求：<span>|</span>工作经验：2年<span>|</span>公司性质：民营公司<span>|</span>公司规模：少于50人</p>
+                <p title="熟悉C/S架构开发流程，熟练掌握C++、C#开发语言，对地理信息系统（GIS）有一定程度了解，有无线电相关知识背景者从优。" class="text">熟悉C/S架构开发流程，熟练掌握C++、C#开发语言，对地理信息系统（GIS）有一定程度了解，有无线电相关知识背景者从优。</p>
+                <p class="opat">
+                    <input name="hidJobID95943071" id="hidJobID95943071" type="hidden" value="95943071" jt="0">
+                    <a class="sq sicon Dm" onclick="delivery('hidJobID95943071', '1', '//i.51job.com', 'c', '', '02', '02', '//img05.51jobcdn.com');return false;" href="javascript:void(0);">立即申请</a><br><a class="sc sicon Dm" onclick="saveCollection('95943071');" href="javascript:void(0);">收藏</a>
+                </p>
+            </div>
+                    <div class="e ">
+                <em class="check" onclick="checkboxClick(this)" name="delivery_em"></em>
+                <input name="delivery_jobid" class="checkbox" style="display:none" type="checkbox" value="116725902" jt="0">
+                <p class="info"><span class="title"><a title="高级咨询顾问（北京）" href="https://jobs.51job.com/beijing-hdq/116725902.html?s=02" target="_blank">高级咨询顾问（北京）</a></span><a title="杭州安恒信息技术股份有限公司" class="name" href="https://jobs.51job.com/beijing-hdq/co1992487.html" target="_blank">杭州安恒信息技术股份有限公司</a><span class="location name">北京-海淀区</span><span class="location">1.5-3万/月</span><span class="time">09-02</span></p>
+                <p class="order">学历要求：本科<span>|</span>工作经验：5-7年<span>|</span>公司性质：民营公司<span>|</span>公司规模：1000-5000人</p>
+                <p title="1、参与大型央企、部委的售前工作，能够清晰的理解客户需求，提供相应的安全咨询、技术和服务的解决方案；2、按照要求完成安全咨询、规划设计和技术方案的编制；  3、负责了解客户对解决方案的需求及意见，及时反馈、跟踪，配合项目经理解决问题； 4、及时、有效协调资源解决项目实施过程中出现的疑难问题； 5、熟悉项目实施过程，熟知项目管理程序，能撰写项目需求，项目报告，项目招投标文档； 6、完成领导布置的其他工作。任职资格：1、具有5年以上信息安全咨询和服务经验；2、计算机或相关专业本科及以上学历，口齿清楚、思维清晰，工作积极主动、态度端正，并且具备良好的沟通能力和团队协作能力；3、具备突出的文档编制能力，能够快速学习解决项目中的问题；4、新技术研究（例如：威胁情报、NG-SOC、大数据安全、云安全等）。" class="text">1、参与大型央企、部委的售前工作，能够清晰的理解客户需求，提供相应的安全咨询、技术和服务的解决方案；2、按照要求完成安全咨询、规划设计和技术方案的编制；  3、负责了解客户对解决方案的需求及意见，及时反馈、跟踪，配合项目经理解决问题； 4、及时、有效协调资源解决项目实施过程中出现的疑难问题； 5、熟悉项目实施过程，熟知项目管理程序，能撰写项目需求，项目报告，项目招投标文档； 6、完成领导布置的其他工作。任职资格：1、具有5年以上信息安全咨询和服务经验；2、计算机或相关专业本科及以上学历，口齿清楚、思维清晰，工作积极主动、态度端正，并且具备良好的沟通能力和团队协作能力；3、具备突出的文档编制能力，能够快速学习解决项目中的问题；4、新技术研究（例如：威胁情报、NG-SOC、大数据安全、云安全等）。</p>
+                <p class="opat">
+                    <input name="hidJobID116725902" id="hidJobID116725902" type="hidden" value="116725902" jt="0">
+                    <a class="sq sicon Dm" onclick="delivery('hidJobID116725902', '1', '//i.51job.com', 'c', '', '02', '02', '//img03.51jobcdn.com');return false;" href="javascript:void(0);">立即申请</a><br><a class="sc sicon Dm" onclick="saveCollection('116725902');" href="javascript:void(0);">收藏</a>
+                </p>
+            </div>
+                    <div class="e ">
+                <em class="check" onclick="checkboxClick(this)" name="delivery_em"></em>
+                <input name="delivery_jobid" class="checkbox" style="display:none" type="checkbox" value="116725797" jt="0">
+                <p class="info"><span class="title"><a title="Java开发工程师" href="https://jobs.51job.com/beijing/116725797.html?s=02" target="_blank">Java开发工程师</a></span><a title="北京亿赛通科技发展有限责任公司" class="name" href="https://jobs.51job.com/beijing/co269234.html" target="_blank">北京亿赛通科技发展有限责任公司</a><span class="location name">北京</span><span class="location">1-1.5万/月</span><span class="time">09-02</span></p>
+                <p class="order">学历要求：本科<span>|</span>工作经验：<span>|</span>公司性质：上市公司<span>|</span>公司规模：150-500人</p>
+                <p title="岗位职责：1、负责公司产品后台系统架构的设计和优化、系统的架构改进，性能调优工作；2、负责核心代码编写，解决技术上的疑难问题；3、负责新技术的研究，为团队引入新的技术和创新的解决方案；4、参与系统业务设计，讨论业务需求实现，编写设计文档；&nbsp;任职要求：1、3年及以上Java开发经验；2、具有扎实的Java功底，熟悉Liunx系统，具有较好的Java IO、多线程、网络等方面的编程能力；3、有大规模高并发应用的设计和开发经验，熟悉Spring、SpringMVC、MyBatis框架；4、熟练使用关系型数据库：Mysql、Oracle。非关系数据库 Redis、MongoDB、ElasticSearch、Hbase等，有实际项目应用经验；5、熟练使用Bootstrap，Jquery，JS，EsayUI，EXT等前端技术框架。6、责任心强，善于学习，善于沟通和表达，有良好的团队合作意识；" class="text">岗位职责：1、负责公司产品后台系统架构的设计和优化、系统的架构改进，性能调优工作；2、负责核心代码编写，解决技术上的疑难问题；3、负责新技术的研究，为团队引入新的技术和创新的解决方案；4、参与系统业务设计，讨论业务需求实现，编写设计文档；&nbsp;任职要求：1、3年及以上Java开发经验；2、具有扎实的Java功底，熟悉Liunx系统，具有较好的Java IO、多线程、网络等方面的编程能力；3、有大规模高并发应用的设计和开发经验，熟悉Spring、SpringMVC、MyBatis框架；4、熟练使用关系型数据库：Mysql、Oracle。非关系数据库 Redis、MongoDB、ElasticSearch、Hbase等，有实际项目应用经验；5、熟练使用Bootstrap，Jquery，JS，EsayUI，EXT等前端技术框架。6、责任心强，善于学习，善于沟通和表达，有良好的团队合作意识；</p>
+                <p class="opat">
+                    <input name="hidJobID116725797" id="hidJobID116725797" type="hidden" value="116725797" jt="0">
+                    <a class="sq sicon Dm" onclick="delivery('hidJobID116725797', '1', '//i.51job.com', 'c', '', '02', '02', '//img06.51jobcdn.com');return false;" href="javascript:void(0);">立即申请</a><br><a class="sc sicon Dm" onclick="saveCollection('116725797');" href="javascript:void(0);">收藏</a>
+                </p>
+            </div>
+                    <div class="e ">
+                <em class="check" onclick="checkboxClick(this)" name="delivery_em"></em>
+                <input name="delivery_jobid" class="checkbox" style="display:none" type="checkbox" value="116725513" jt="0">
+                <p class="info"><span class="title"><a title="电子产品组装工" href="https://jobs.51job.com/beijing-hdq/116725513.html?s=02" target="_blank">电子产品组装工</a></span><a title="北京鑫富瑞普微计算机系统有限公司" class="name" href="https://jobs.51job.com/beijing-hdq/co4583187.html" target="_blank">北京鑫富瑞普微计算机系统有限公司</a><span class="location name">北京-海淀区</span><span class="location">3-4.5千/月</span><span class="time">09-02</span></p>
+                <p class="order">学历要求：高中<span>|</span>工作经验：1年<span>|</span>公司性质：民营公司<span>|</span>公司规模：50-150人</p>
+                <p title="遵照产品质量标准要求，进行零部件组装；1、成品运行调试检验，产品包装发货；2、安全生产和防止各种违章操作；3、能吃苦耐劳  爱岗敬业 4.生产组装电子产品，严格按照操作标准执行操作到岗有定期培训操作简单易懂有经验者优先选择入职上社保+餐补+交通补助" class="text">遵照产品质量标准要求，进行零部件组装；1、成品运行调试检验，产品包装发货；2、安全生产和防止各种违章操作；3、能吃苦耐劳  爱岗敬业 4.生产组装电子产品，严格按照操作标准执行操作到岗有定期培训操作简单易懂有经验者优先选择入职上社保+餐补+交通补助</p>
+                <p class="opat">
+                    <input name="hidJobID116725513" id="hidJobID116725513" type="hidden" value="116725513" jt="0">
+                    <a class="sq sicon Dm" onclick="delivery('hidJobID116725513', '1', '//i.51job.com', 'c', '', '02', '02', '//img02.51jobcdn.com');return false;" href="javascript:void(0);">立即申请</a><br><a class="sc sicon Dm" onclick="saveCollection('116725513');" href="javascript:void(0);">收藏</a>
+                </p>
+            </div>
+                    <div class="e ">
+                <em class="check" onclick="checkboxClick(this)" name="delivery_em"></em>
+                <input name="delivery_jobid" class="checkbox" style="display:none" type="checkbox" value="116725618" jt="0">
+                <p class="info"><span class="title"><a title="Java中级开发工程师" href="https://jobs.51job.com/beijing-cyq/116725618.html?s=02" target="_blank">Java中级开发工程师</a></span><a title="北京瑞天欣实数据科技有限公司" class="name" href="https://jobs.51job.com/beijing-cyq/co3681163.html" target="_blank">北京瑞天欣实数据科技有限公司</a><span class="location name">北京-朝阳区</span><span class="location">1.5-2万/月</span><span class="time">09-02</span></p>
+                <p class="order">学历要求：本科<span>|</span>工作经验：5-7年<span>|</span>公司性质：民营公司<span>|</span>公司规模：50-150人</p>
+                <p title="1、 负责银行信贷、风险控制等风控产品的设计、开发与实施支持；2、 按项目要求，主动完成产品研发、测试、上线支持等任务；3、 具有优秀的产品设计、开发和沟通能力，富有工作热情。很强的业务学习和钻研能力，工作认真并快速进入角色；4、 能够快速学习金融业务知识，并主动从业务角度去考虑系统的设计和实现。5、 能承受一定的工作压力，有责任心，沟通能力强，有上进心和自我驱动力，能通过持续学习完善自身；6、 能够接受不定期、短期出差要求。任职要求：1、 强烈的责任心和良好的团队合作精神，乐于助人，对解决问题有强烈兴趣；2、 具有一定的产品思维，能够根据业务需求进行产品提炼；3、2年以上开发经验，Java基础扎实，熟悉Linux，精通Oracle或Mysql；4、有较深厚的JAVA基础，熟悉常见Java开源框架，如Spring、Spring MVC、SpringBoot、MyBatis、Hibernate、Spring Security等。；5、有一定的前端开发能力，熟悉JQuery、BootStrap，了解VUE.js、Sea.js、Node.js等主流前端框架，可以开发和调试JS代码；6、拥有决策引擎开发实施经验者优先；7、有银行项目工作经验优先，有linux服务器上工作的经验的优先；" class="text">1、 负责银行信贷、风险控制等风控产品的设计、开发与实施支持；2、 按项目要求，主动完成产品研发、测试、上线支持等任务；3、 具有优秀的产品设计、开发和沟通能力，富有工作热情。很强的业务学习和钻研能力，工作认真并快速进入角色；4、 能够快速学习金融业务知识，并主动从业务角度去考虑系统的设计和实现。5、 能承受一定的工作压力，有责任心，沟通能力强，有上进心和自我驱动力，能通过持续学习完善自身；6、 能够接受不定期、短期出差要求。任职要求：1、 强烈的责任心和良好的团队合作精神，乐于助人，对解决问题有强烈兴趣；2、 具有一定的产品思维，能够根据业务需求进行产品提炼；3、2年以上开发经验，Java基础扎实，熟悉Linux，精通Oracle或Mysql；4、有较深厚的JAVA基础，熟悉常见Java开源框架，如Spring、Spring MVC、SpringBoot、MyBatis、Hibernate、Spring Security等。；5、有一定的前端开发能力，熟悉JQuery、BootStrap，了解VUE.js、Sea.js、Node.js等主流前端框架，可以开发和调试JS代码；6、拥有决策引擎开发实施经验者优先；7、有银行项目工作经验优先，有linux服务器上工作的经验的优先；</p>
+                <p class="opat">
+                    <input name="hidJobID116725618" id="hidJobID116725618" type="hidden" value="116725618" jt="0">
+                    <a class="sq sicon Dm" onclick="delivery('hidJobID116725618', '1', '//i.51job.com', 'c', '', '02', '02', '//img01.51jobcdn.com');return false;" href="javascript:void(0);">立即申请</a><br><a class="sc sicon Dm" onclick="saveCollection('116725618');" href="javascript:void(0);">收藏</a>
+                </p>
+            </div>
+                    <div class="e ">
+                <em class="check" onclick="checkboxClick(this)" name="delivery_em"></em>
+                <input name="delivery_jobid" class="checkbox" style="display:none" type="checkbox" value="116721523" jt="0">
+                <p class="info"><span class="title"><a title="Java高级开发工程师" href="https://jobs.51job.com/beijing/116721523.html?s=02" target="_blank">Java高级开发工程师</a></span><a title="深圳市蓝鹰立德软件咨询有限公司" class="name" href="https://jobs.51job.com/beijing/co5440802.html" target="_blank">深圳市蓝鹰立德软件咨询有限公司</a><span class="location name">北京</span><span class="location">1.5-2万/月</span><span class="time">09-02</span></p>
+                <p class="order">学历要求：本科<span>|</span>工作经验：5-7年<span>|</span>公司性质：民营公司<span>|</span>公司规模：50-150人</p>
+                <p title="1、本科以上学历，五年以上Java相关研发经验；&nbsp;2、对JavaEE有较清晰的认识，熟悉主流框架（Spring，SpringMVC，Mybatis，Dubbo等），熟悉Maven、Git；3、熟悉常用的数据结构，算法和设计模式，了解微服务架构；&nbsp;4、熟悉Linux操作系统，至少掌握一种脚本语言如Shell、Python；&nbsp;5、具有MySQL等数据库应用开发经验，具备数据库应用系统的规划及设计能力；&nbsp;6、具备一定的分布式缓存（redis等）、分布式MQ（Kafka等）、多线程实践经验；&nbsp;7、有良好的沟通能力，具有跨部门协作的经验、推进能力强，责任心强；&nbsp;8、有大型互联网公司经验优先、有高并发的系统核心研发经验优先、有大数据平台研发经验优先。" class="text">1、本科以上学历，五年以上Java相关研发经验；&nbsp;2、对JavaEE有较清晰的认识，熟悉主流框架（Spring，SpringMVC，Mybatis，Dubbo等），熟悉Maven、Git；3、熟悉常用的数据结构，算法和设计模式，了解微服务架构；&nbsp;4、熟悉Linux操作系统，至少掌握一种脚本语言如Shell、Python；&nbsp;5、具有MySQL等数据库应用开发经验，具备数据库应用系统的规划及设计能力；&nbsp;6、具备一定的分布式缓存（redis等）、分布式MQ（Kafka等）、多线程实践经验；&nbsp;7、有良好的沟通能力，具有跨部门协作的经验、推进能力强，责任心强；&nbsp;8、有大型互联网公司经验优先、有高并发的系统核心研发经验优先、有大数据平台研发经验优先。</p>
+                <p class="opat">
+                    <input name="hidJobID116721523" id="hidJobID116721523" type="hidden" value="116721523" jt="0">
+                    <a class="sq sicon Dm" onclick="delivery('hidJobID116721523', '1', '//i.51job.com', 'c', '', '02', '02', '//img02.51jobcdn.com');return false;" href="javascript:void(0);">立即申请</a><br><a class="sc sicon Dm" onclick="saveCollection('116721523');" href="javascript:void(0);">收藏</a>
+                </p>
+            </div>
+                    <div class="e ">
+                <em class="check" onclick="checkboxClick(this)" name="delivery_em"></em>
+                <input name="delivery_jobid" class="checkbox" style="display:none" type="checkbox" value="116671527" jt="0">
+                <p class="info"><span class="title"><a title="电话销售   月薪8000-15000" href="https://jobs.51job.com/beijing-hdq/116671527.html?s=02" target="_blank">电话销售   月薪8000-15000</a></span><a title="北京冠为信息科技有限公司" class="name" href="https://jobs.51job.com/beijing-hdq/co5629113.html" target="_blank">北京冠为信息科技有限公司</a><span class="location name">北京-海淀区</span><span class="location">0.8-1万/月</span><span class="time">09-02</span></p>
+                <p class="order">学历要求：高中<span>|</span>工作经验：1年<span>|</span>公司性质：民营公司<span>|</span>公司规模：50-150人</p>
+                <p title="我们需要有赚钱欲望的人！！现广纳人才！！无责任底薪3000+业绩提成+奖金+全勤+晋升机制（3个月一次，）试用期1个月，试用期期间多补贴1000元生活补助主要工作职责：1、负责银行贷款产品的销售及推广2、为客户制定合适的融资方案，匹配合适的渠道；3、为客户提供贷款咨询服务；4、开拓新市场,发展新客户,增加产品销售范围；5、管理维护客户关系以及客户间的长期战略合作计划。任职资格：1、20-30岁，口齿清晰，普通话流利，语言富有感染力；2、反应敏捷、表达能力强，具有较强的沟通能力及交际技巧，具有亲和力；3、具备一定的市场分析及判断能力，良好的客户服务意识；4、有责任心，能承受较大的工作压力；5、有团队协作精神，善于挑战。公司福利：生活补助:1000提成:20%-40%，3万以下20%，3-5万25%，5-8万30%，8-12万35%，12万以上40%，以上均通提。入职满半年在各档位基础上加5%，入职满1年在各档位基础上加10%。新员工试用期提成结构为15%-35%上班时间： 早8.30-18.00（有加班情况，最晚不超过9点），午休2小时，单休（周六）企业优势：1、客户资源由公司全方位无偿提供2、公司位置优越，距离征信查询点和中国人民银行很近3、入职三个月就可有晋升机会4、试用期有1000元补助，给与新人适应时间5、定期与不定期的团建福利及业绩奖励6、提成百分比为阶梯式，皆为通提7、有外呼软件，非号段非手拨" class="text">我们需要有赚钱欲望的人！！现广纳人才！！无责任底薪3000+业绩提成+奖金+全勤+晋升机制（3个月一次，）试用期1个月，试用期期间多补贴1000元生活补助主要工作职责：1、负责银行贷款产品的销售及推广2、为客户制定合适的融资方案，匹配合适的渠道；3、为客户提供贷款咨询服务；4、开拓新市场,发展新客户,增加产品销售范围；5、管理维护客户关系以及客户间的长期战略合作计划。任职资格：1、20-30岁，口齿清晰，普通话流利，语言富有感染力；2、反应敏捷、表达能力强，具有较强的沟通能力及交际技巧，具有亲和力；3、具备一定的市场分析及判断能力，良好的客户服务意识；4、有责任心，能承受较大的工作压力；5、有团队协作精神，善于挑战。公司福利：生活补助:1000提成:20%-40%，3万以下20%，3-5万25%，5-8万30%，8-12万35%，12万以上40%，以上均通提。入职满半年在各档位基础上加5%，入职满1年在各档位基础上加10%。新员工试用期提成结构为15%-35%上班时间： 早8.30-18.00（有加班情况，最晚不超过9点），午休2小时，单休（周六）企业优势：1、客户资源由公司全方位无偿提供2、公司位置优越，距离征信查询点和中国人民银行很近3、入职三个月就可有晋升机会4、试用期有1000元补助，给与新人适应时间5、定期与不定期的团建福利及业绩奖励6、提成百分比为阶梯式，皆为通提7、有外呼软件，非号段非手拨</p>
+                <p class="opat">
+                    <input name="hidJobID116671527" id="hidJobID116671527" type="hidden" value="116671527" jt="0">
+                    <a class="sq sicon Dm" onclick="delivery('hidJobID116671527', '1', '//i.51job.com', 'c', '', '02', '02', '//img05.51jobcdn.com');return false;" href="javascript:void(0);">立即申请</a><br><a class="sc sicon Dm" onclick="saveCollection('116671527');" href="javascript:void(0);">收藏</a>
+                </p>
+            </div>
+                    <div class="e ">
+                <em class="check" onclick="checkboxClick(this)" name="delivery_em"></em>
+                <input name="delivery_jobid" class="checkbox" style="display:none" type="checkbox" value="110551087" jt="0">
+                <p class="info"><span class="title"><a title="Java高级开发工程师" href="https://jobs.51job.com/beijing-cyq/110551087.html?s=02" target="_blank">Java高级开发工程师</a></span><a title="乐华建科技（北京）有限公司" class="name" href="https://jobs.51job.com/beijing-cyq/co5330730.html" target="_blank">乐华建科技（北京）有限公司</a><span class="location name">北京-朝阳区</span><span class="location">1.5-2万/月</span><span class="time">09-02</span></p>
+                <p class="order">学历要求：本科<span>|</span>工作经验：5-7年<span>|</span>公司性质：外资（欧美）<span>|</span>公司规模：50-150人</p>
+                <p title="岗位职责：1、完成Java项目开发工作；2、参与日常产品需求分析及技术架构设计；3、根据软件技术架构设计实现和完善开发框架，不断提高开发框架的开发效率和性能；4、发现并解决系统日常运行中发现的问题；5、编写整理文档；任职要求：1、计算机或相关专业，公立二本以上大学本科学历;2、大学毕业后5年以上JAVA软件项目开发实际经验;3、对软件系统构建有深刻理解，熟练掌握Spring，Spring Data，Spring  MVC，Spring Cloud架构，能够解决开发过程中遇到的问题;4、熟悉关系型数据库开发（Oracle优先)，熟练使用SQL;5、有企业信息管理系统开发经验者优先;6、熟悉多平台架构者优先;7、有较强的技术背景和学习能力;8、&nbsp; 具有较好的沟通能力;                                                            &nbsp;9、具有较强的责任心和团队协作精神。" class="text">岗位职责：1、完成Java项目开发工作；2、参与日常产品需求分析及技术架构设计；3、根据软件技术架构设计实现和完善开发框架，不断提高开发框架的开发效率和性能；4、发现并解决系统日常运行中发现的问题；5、编写整理文档；任职要求：1、计算机或相关专业，公立二本以上大学本科学历;2、大学毕业后5年以上JAVA软件项目开发实际经验;3、对软件系统构建有深刻理解，熟练掌握Spring，Spring Data，Spring  MVC，Spring Cloud架构，能够解决开发过程中遇到的问题;4、熟悉关系型数据库开发（Oracle优先)，熟练使用SQL;5、有企业信息管理系统开发经验者优先;6、熟悉多平台架构者优先;7、有较强的技术背景和学习能力;8、&nbsp; 具有较好的沟通能力;                                                            &nbsp;9、具有较强的责任心和团队协作精神。</p>
+                <p class="opat">
+                    <input name="hidJobID110551087" id="hidJobID110551087" type="hidden" value="110551087" jt="0">
+                    <a class="sq sicon Dm" onclick="delivery('hidJobID110551087', '1', '//i.51job.com', 'c', '', '02', '02', '//img03.51jobcdn.com');return false;" href="javascript:void(0);">立即申请</a><br><a class="sc sicon Dm" onclick="saveCollection('110551087');" href="javascript:void(0);">收藏</a>
+                </p>
+            </div>
+                    <div class="e ">
+                <em class="check" onclick="checkboxClick(this)" name="delivery_em"></em>
+                <input name="delivery_jobid" class="checkbox" style="display:none" type="checkbox" value="116725240" jt="0">
+                <p class="info"><span class="title"><a title="人力资源助理" href="https://jobs.51job.com/beijing-cyq/116725240.html?s=02" target="_blank">人力资源助理</a></span><a title="北京八方知源商贸有限公司" class="name" href="https://jobs.51job.com/beijing-cyq/co5579387.html" target="_blank">北京八方知源商贸有限公司</a><span class="location name">北京-朝阳区</span><span class="location">0.8-1万/月</span><span class="time">09-02</span></p>
+                <p class="order">学历要求：大专<span>|</span>工作经验：1年<span>|</span>公司性质：民营公司<span>|</span>公司规模：50-150人</p>
+                <p title="负责招聘、咨询、劳动关系等业务的助理工作。文件的整理，保存、归档" class="text">负责招聘、咨询、劳动关系等业务的助理工作。文件的整理，保存、归档</p>
+                <p class="opat">
+                    <input name="hidJobID116725240" id="hidJobID116725240" type="hidden" value="116725240" jt="0">
+                    <a class="sq sicon Dm" onclick="delivery('hidJobID116725240', '1', '//i.51job.com', 'c', '', '02', '02', '//img04.51jobcdn.com');return false;" href="javascript:void(0);">立即申请</a><br><a class="sc sicon Dm" onclick="saveCollection('116725240');" href="javascript:void(0);">收藏</a>
+                </p>
+            </div>
+                    <div class="e ">
+                <em class="check" onclick="checkboxClick(this)" name="delivery_em"></em>
+                <input name="delivery_jobid" class="checkbox" style="display:none" type="checkbox" value="116725152" jt="0">
+                <p class="info"><span class="title"><a title="Java开发工程师高薪 J" href="https://jobs.51job.com/beijing-cyq/116725152.html?s=02" target="_blank">Java开发工程师高薪 J</a></span><a title="同方鼎欣科技股份有限公司" class="name" href="https://jobs.51job.com/beijing-cyq/co166902.html" target="_blank">同方鼎欣科技股份有限公司</a><span class="location name">北京-朝阳区</span><span class="location">1.5-2万/月</span><span class="time">09-02</span></p>
+                <p class="order">学历要求：大专<span>|</span>工作经验：5-7年<span>|</span>公司性质：上市公司<span>|</span>公司规模：1000-5000人</p>
+                <p title="1.&nbsp;与产品经理沟通需求，负责信用卡管家APP后端系统的设计和开发，完成技术选型和功能设计；2.&nbsp;负责核心功能开发和故障解决；3.&nbsp;系统性能优化。任职要求：&nbsp;1.&nbsp;熟练掌握java技术，精通jvm/多线程，具备5年以上Java开发经验 ；2.&nbsp;丰富的JAVA&nbsp;WEB开发和性能优化经验，熟悉SpringBoot，SpringCloud，spring&nbsp;mvc，mybatis或hibernate开发；&nbsp;3.&nbsp;熟悉mysql开发和优化；4.&nbsp;熟悉nginx、Tomcat等应用服务器，熟悉linux开发环境，掌握一种脚本语言(shell，python，perl)的使用；5.&nbsp;熟悉分布式系统架构，熟悉memcache，redis等缓存技术，熟悉kafka等消息中间件；6.&nbsp;掌握常用的数据结构和基本算法，面向对象的思想和设计模式；&nbsp;7.&nbsp;具有很强的学习能力和团队协作精神，自我驱动。" class="text">1.&nbsp;与产品经理沟通需求，负责信用卡管家APP后端系统的设计和开发，完成技术选型和功能设计；2.&nbsp;负责核心功能开发和故障解决；3.&nbsp;系统性能优化。任职要求：&nbsp;1.&nbsp;熟练掌握java技术，精通jvm/多线程，具备5年以上Java开发经验 ；2.&nbsp;丰富的JAVA&nbsp;WEB开发和性能优化经验，熟悉SpringBoot，SpringCloud，spring&nbsp;mvc，mybatis或hibernate开发；&nbsp;3.&nbsp;熟悉mysql开发和优化；4.&nbsp;熟悉nginx、Tomcat等应用服务器，熟悉linux开发环境，掌握一种脚本语言(shell，python，perl)的使用；5.&nbsp;熟悉分布式系统架构，熟悉memcache，redis等缓存技术，熟悉kafka等消息中间件；6.&nbsp;掌握常用的数据结构和基本算法，面向对象的思想和设计模式；&nbsp;7.&nbsp;具有很强的学习能力和团队协作精神，自我驱动。</p>
+                <p class="opat">
+                    <input name="hidJobID116725152" id="hidJobID116725152" type="hidden" value="116725152" jt="0">
+                    <a class="sq sicon Dm" onclick="delivery('hidJobID116725152', '1', '//i.51job.com', 'c', '', '02', '02', '//img06.51jobcdn.com');return false;" href="javascript:void(0);">立即申请</a><br><a class="sc sicon Dm" onclick="saveCollection('116725152');" href="javascript:void(0);">收藏</a>
+                </p>
+            </div>
+                    <div class="e ">
+                <em class="check" onclick="checkboxClick(this)" name="delivery_em"></em>
+                <input name="delivery_jobid" class="checkbox" style="display:none" type="checkbox" value="97456000" jt="0">
+                <p class="info"><span class="title"><a title="c++软件工程师" href="https://jobs.51job.com/beijing/97456000.html?s=02" target="_blank">c++软件工程师</a></span><a title="苏州浩辰软件股份有限公司北京分公司" class="name" href="https://jobs.51job.com/beijing/co2724367.html" target="_blank">苏州浩辰软件股份有限公司北京分公司</a><span class="location name">北京</span><span class="location">1-1.5万/月</span><span class="time">09-02</span></p>
+                <p class="order">学历要求：大专<span>|</span>工作经验：2年<span>|</span>公司性质：民营公司<span>|</span>公司规模：150-500人</p>
+                <p title="岗位职责:1、建筑及相关专业的CAD软件产品的开发工作；&nbsp;2、移动平台CAD软件产品的开发工作；3、定制类软件项目的开发工作；4、软件相关文档资料制作；5、上级安排的其它临时任务。用人要求1、学历：大专及以上；年龄：小于35岁；专业不限，有建筑、建筑结构、工民建、土土工程、建筑电气、建筑暖通、建筑给排水等专业背景或工作经验者优先。2、外语能力：大学英语4级，具备一定的英文阅读能力，能读懂计算机软件方面的英文资料。3、深入掌握C++编程语言，至少有两年的C++学习和编程经验；4、可熟练使用VC++编程环境进行编程和调试，至少有1年的VC++实际使用经验；5、具备一定的MFC应用软件开发能力，至少有1年的MFC实际编程经验。注：如果是应届生，学习能力强者，亦可考虑。加入浩辰软件，您将拥有：&nbsp;1、基本工资+季度奖金+餐补；&nbsp;2、公司实行每周5天8小时工作制；&nbsp;3、公司提供养老保险、医疗保险、工伤保险、失业保险、生育保险、住房公积金；&nbsp;4、公司提供午餐补助、生日礼金、结婚礼金、生育礼金、节日礼金等；&nbsp;5、员工除享有法定假日外，还享受带薪年假；&nbsp;6、丰富多彩的员工活动、年度旅游等；&nbsp;7、广阔的发展和提升空间。&nbsp;工作地点：北京市朝阳区酒仙桥北路甲10号电子城IT产业园201楼C门5层附近站台：14号线 将台路地铁；班车服务：公司上下班提供班车服务：海淀清河、芍药居、望京西、将台路等线路" class="text">岗位职责:1、建筑及相关专业的CAD软件产品的开发工作；&nbsp;2、移动平台CAD软件产品的开发工作；3、定制类软件项目的开发工作；4、软件相关文档资料制作；5、上级安排的其它临时任务。用人要求1、学历：大专及以上；年龄：小于35岁；专业不限，有建筑、建筑结构、工民建、土土工程、建筑电气、建筑暖通、建筑给排水等专业背景或工作经验者优先。2、外语能力：大学英语4级，具备一定的英文阅读能力，能读懂计算机软件方面的英文资料。3、深入掌握C++编程语言，至少有两年的C++学习和编程经验；4、可熟练使用VC++编程环境进行编程和调试，至少有1年的VC++实际使用经验；5、具备一定的MFC应用软件开发能力，至少有1年的MFC实际编程经验。注：如果是应届生，学习能力强者，亦可考虑。加入浩辰软件，您将拥有：&nbsp;1、基本工资+季度奖金+餐补；&nbsp;2、公司实行每周5天8小时工作制；&nbsp;3、公司提供养老保险、医疗保险、工伤保险、失业保险、生育保险、住房公积金；&nbsp;4、公司提供午餐补助、生日礼金、结婚礼金、生育礼金、节日礼金等；&nbsp;5、员工除享有法定假日外，还享受带薪年假；&nbsp;6、丰富多彩的员工活动、年度旅游等；&nbsp;7、广阔的发展和提升空间。&nbsp;工作地点：北京市朝阳区酒仙桥北路甲10号电子城IT产业园201楼C门5层附近站台：14号线 将台路地铁；班车服务：公司上下班提供班车服务：海淀清河、芍药居、望京西、将台路等线路</p>
+                <p class="opat">
+                    <input name="hidJobID97456000" id="hidJobID97456000" type="hidden" value="97456000" jt="0">
+                    <a class="sq sicon Dm" onclick="delivery('hidJobID97456000', '1', '//i.51job.com', 'c', '', '02', '02', '//img03.51jobcdn.com');return false;" href="javascript:void(0);">立即申请</a><br><a class="sc sicon Dm" onclick="saveCollection('97456000');" href="javascript:void(0);">收藏</a>
+                </p>
+            </div>
+                    <div class="e ">
+                <em class="check" onclick="checkboxClick(this)" name="delivery_em"></em>
+                <input name="delivery_jobid" class="checkbox" style="display:none" type="checkbox" value="116715159" jt="0">
+                <p class="info"><span class="title"><a title="到店广告-后台开发工程师-创新业务" href="https://jobs.51job.com/beijing-cyq/116715159.html?s=02" target="_blank">到店广告-后台开发工程师-创新业务</a></span><a title="美团点评" class="name" href="https://jobs.51job.com/beijing-cyq/co4400526.html" target="_blank">美团点评</a><span class="location name">北京-朝阳区</span><span class="location">2.5-3万/月</span><span class="time">09-02</span></p>
+                <p class="order">学历要求：<span>|</span>工作经验：5-7年<span>|</span>公司性质：民营公司<span>|</span>公司规模：10000人以上</p>
+                <p title="岗位描述：1. 负责美团新业务后台系统核心功能设计研发；2. 持续进行系统性能优化、稳定性保障和技术难题攻关；3. 识别并及时处理潜在技术风险，保证系统可持续的安全、稳定运行；4. 指导初级开发工程师，审核并把关工程质量。岗位描述：1. Java基础扎实, 理解io、多线程、集合相关基础框架, 对JVM原理有一定的了解；2. 5年以上Java开发经验，对常用开源框架能有从原理到应用各个层面的理解；3. 熟悉分布式系统的设计和应用，有较强的分析设计能力和方案整合能力；4. 团队协作意识和能力强，并能恰当应对工作中的压力；5. 具有搜索/推荐系统相关开发经验优先考虑。" class="text">岗位描述：1. 负责美团新业务后台系统核心功能设计研发；2. 持续进行系统性能优化、稳定性保障和技术难题攻关；3. 识别并及时处理潜在技术风险，保证系统可持续的安全、稳定运行；4. 指导初级开发工程师，审核并把关工程质量。岗位描述：1. Java基础扎实, 理解io、多线程、集合相关基础框架, 对JVM原理有一定的了解；2. 5年以上Java开发经验，对常用开源框架能有从原理到应用各个层面的理解；3. 熟悉分布式系统的设计和应用，有较强的分析设计能力和方案整合能力；4. 团队协作意识和能力强，并能恰当应对工作中的压力；5. 具有搜索/推荐系统相关开发经验优先考虑。</p>
+                <p class="opat">
+                    <input name="hidJobID116715159" id="hidJobID116715159" type="hidden" value="116715159" jt="0">
+                    <a class="sq sicon Dm" onclick="delivery('hidJobID116715159', '1', '//i.51job.com', 'c', '', '02', '02', '//img06.51jobcdn.com');return false;" href="javascript:void(0);">立即申请</a><br><a class="sc sicon Dm" onclick="saveCollection('116715159');" href="javascript:void(0);">收藏</a>
+                </p>
+            </div>
+                    <div class="e ebtm">
+                <em class="check" onclick="checkboxClick(this)" name="delivery_em"></em>
+                <input name="delivery_jobid" class="checkbox" style="display:none" type="checkbox" value="116670043" jt="0">
+                <p class="info"><span class="title"><a title="Android开发工程师" href="https://jobs.51job.com/beijing-cyq/116670043.html?s=02" target="_blank">Android开发工程师</a></span><a title="北京杰迈科技股份有限公司" class="name" href="https://jobs.51job.com/beijing-cyq/co3315390.html" target="_blank">北京杰迈科技股份有限公司</a><span class="location name">北京-朝阳区</span><span class="location">0.8-1.5万/月</span><span class="time">09-02</span></p>
+                <p class="order">学历要求：<span>|</span>工作经验：<span>|</span>公司性质：民营公司<span>|</span>公司规模：150-500人</p>
+                <p title="【岗位职责】：1、负责Android APP开发和维护工作；2、负责Android项目的架构设计、方案的制定；3、跟进Android的新技术发展，编写设计开发及实现文档；4、根据产品功能需求设计并完成软件实现；【任职要求】：1、两年以上Android App产品开发经验，有扎实的Java语言基础；2、熟悉Android开发平台及框架原理，能独立设计和开发高性能Android应用；3、熟练掌握Android SDK、JSON协议、UI界面开发、数据存储等；4、熟练掌握多线程和网络编程，熟悉HTTP、HTTPS、TCP/IP等网络通讯协议；5、熟悉APP 性能、内存优化、安全性等内容，熟练掌握代码调试、调优技术；6、有小程序/跨平台项目开发经验者优先；7、性格开朗，对技术有强烈的兴趣，喜欢钻研，强烈的责任心、上进心，良好的沟通表达能力；8、在规定时间内高效完成任务并具备良好的团队合作精神，可承受一定的工作压力；" class="text">【岗位职责】：1、负责Android APP开发和维护工作；2、负责Android项目的架构设计、方案的制定；3、跟进Android的新技术发展，编写设计开发及实现文档；4、根据产品功能需求设计并完成软件实现；【任职要求】：1、两年以上Android App产品开发经验，有扎实的Java语言基础；2、熟悉Android开发平台及框架原理，能独立设计和开发高性能Android应用；3、熟练掌握Android SDK、JSON协议、UI界面开发、数据存储等；4、熟练掌握多线程和网络编程，熟悉HTTP、HTTPS、TCP/IP等网络通讯协议；5、熟悉APP 性能、内存优化、安全性等内容，熟练掌握代码调试、调优技术；6、有小程序/跨平台项目开发经验者优先；7、性格开朗，对技术有强烈的兴趣，喜欢钻研，强烈的责任心、上进心，良好的沟通表达能力；8、在规定时间内高效完成任务并具备良好的团队合作精神，可承受一定的工作压力；</p>
+                <p class="opat">
+                    <input name="hidJobID116670043" id="hidJobID116670043" type="hidden" value="116670043" jt="0">
+                    <a class="sq sicon Dm" onclick="delivery('hidJobID116670043', '1', '//i.51job.com', 'c', '', '02', '02', '//img04.51jobcdn.com');return false;" href="javascript:void(0);">立即申请</a><br><a class="sc sicon Dm" onclick="saveCollection('116670043');" href="javascript:void(0);">收藏</a>
+                </p>
+            </div>
+            </div>
+    <div class="dw_tlc">
+        <div class="chall"><span><em class="check" id="bottom_select_all_jobs_checkbox" onclick="javascript:SelectAllCheckbox(this, 'delivery_em')" name="select_all"></em></span>全选</div>
+        <div class="op"><span class="but_sq uck" onclick="delivery('delivery_jobid', '2', '//i.51job.com', 'c', '', '02', '02', '//img06.51jobcdn.com');"><i class="dicon Dm"></i>申请职位</span></div>
+    </div>
+    <!--分页-->
+    <div class="dw_page">
+    <div class="p_box">
+        <div class="p_wp">
+            <div class="p_in">
+                <ul>
+                                            <li class="bk"><span>上一页</span></li>
+                                                                                            <li class="on">1</li>
+                                                                                                <li><a href="https://jobs.51job.com/beijing/hy01/p2/">2</a></li>
+                                                                                                <li><a href="https://jobs.51job.com/beijing/hy01/p3/">3</a></li>
+                                                                                                <li><a href="https://jobs.51job.com/beijing/hy01/p4/">4</a></li>
+                                            
+                                            <li class="bk"><a href="https://jobs.51job.com/beijing/hy01/p2/">下一页</a></li>
+                                    </ul>
+                <input id="hidTotalPage" type="hidden" value="1737">
+                <span class="td">共1737页，到第</span><input class="mytxt" id="jump_page" type="text" value="1"><span class="td">页</span><span class="og_but" onclick="jumpPage('1737');">确定</span>
+            </div>
+        </div>
+    </div>
+</div>    <!--分页 END-->
+        </div>
+        <!-- list end -->
+
+        <div class="right">
+            <div class="e gbox">
+    <p class="btitle"><a class="c_sblue" href="https://auction.51jingying.com/auctionindex.php?5CC4CE=110046" target="_blank">精英竞拍汇</a>-中高端人才求职平台</p>
+    <div class="clist">
+        <div class="c c0">
+            <div class="p1">
+                <label>年薪：30-80万</label>
+                <em></em>
+                <a href="https://auction.51jingying.com/auctionindex.php?5CC4CE=110046" target="_blank">互联网专场</a>
+            </div>
+            <div class="p2">
+                <span>招聘职位：</span>
+                后端开发，前端开发，移动端开发，测试，产品/设计/运营
+            </div>
+        </div>
+        <div class="c c1">
+            <div class="p1">
+                <label>年薪：40-150万</label>
+                <em></em>
+                <a href="https://auction.51jingying.com/auctionindex.php?5CC4CE=110046" target="_blank">金融专场</a>
+            </div>
+            <div class="p2">
+                <span>招聘职位：</span>
+                财务审计，合规与风险控制，后台运营，投行，销售
+            </div>
+        </div>
+        <div class="c c2">
+            <div class="p1">
+                <label>年薪：40-60万</label>
+                <em></em>
+                <a href="https://auction.51jingying.com/auctionindex.php?5CC4CE=110046" target="_blank">房地产专场</a>
+            </div>
+            <div class="p2">
+                <span>招聘职位：</span>
+                房地产开发，建筑工程，规划设计，商业，市场营销
+            </div>
+        </div>
+        <div class="c c3">
+            <div class="p1">
+                <label>年薪：20-40万</label>
+                <em></em>
+                <a href="https://auction.51jingying.com/auctionindex.php?5CC4CE=110046" target="_blank">汽车专场</a>
+            </div>
+            <div class="p2">
+                <span>招聘职位：</span>
+                汽车新能源，软件与汽车电子，生产制造，质量管理，供应链管理
+            </div>
+        </div>
+    </div>
+    <div class="hmore">
+        <a href="https://auction.51jingying.com/auctionindex.php?5CC4CE=110046" target="_blank">&gt;&gt;&nbsp;更多</a>
+    </div>
+</div>            <!-- Recommend -->
+            <div class="e gbox">
+                <h2>
+    <span class="bname">相似职位</span>
+            <a class="op i_reflash" href="https://jobs.51job.com/beijing/tuijian/tj114081744/">+ 更多</a>
+    </h2>
+    <div class="apBtn">
+        <div class="chall">
+            <em class="check" onclick="SelectAllJobs(this)"></em>
+            <span>全选</span>
+        </div>
+        <div class="op">
+            <span class="but_sq" onclick="delivery('delivery_jobid_similar', '2', '//i.51job.com', 'c', 'https://jobs.51job.com', '01', '02', '//img04.51jobcdn.com');">
+                <i></i>一键申请
+            </span>
+        </div>
+    </div>
+    <div class="rjlist r3">
+                    <div class="e">
+                <a title="广告销售（亲子）" class="name" href="https://jobs.51job.com/beijing/110322340.html?t=2&amp;s=02" target="_blank">广告销售（亲子）</a>
+                <a title="美团点评" href="https://jobs.51job.com/beijing/co2381155.html" target="_blank">美团点评</a>
+                <strong title="1-1.5万/月">1-1.5万/月</strong>
+                <span title="北京">北京</span>
+                <em class="apply" onclick="emClick(this)" name="delivery_em"></em>
+                <input name="delivery_jobid_similar" class="checkbox" style="display:none" type="checkbox" value="110322340" jt="2">
+            </div>
+                    <div class="e">
+                <a title="信息流广告销售" class="name" href="https://jobs.51job.com/beijing-cyq/108012930.html?t=2&amp;s=02" target="_blank">信息流广告销售</a>
+                <a title="深圳海纳互动科技有限公司" href="https://jobs.51job.com/beijing-cyq/co4339889.html" target="_blank">深圳海纳互动科技有限公司</a>
+                <strong title="1-2万/月">1-2万/月</strong>
+                <span title="北京-朝阳区">北京-朝阳区</span>
+                <em class="apply" onclick="emClick(this)" name="delivery_em"></em>
+                <input name="delivery_jobid_similar" class="checkbox" style="display:none" type="checkbox" value="108012930" jt="2">
+            </div>
+                    <div class="e">
+                <a title="杂志社广告销售五险一金" class="name" href="https://jobs.51job.com/beijing-xcq/112210262.html?t=2&amp;s=02" target="_blank">杂志社广告销售五险一金</a>
+                <a title="《中国总会计师》杂志社" href="https://jobs.51job.com/beijing-xcq/co5439553.html" target="_blank">《中国总会计师》杂志社</a>
+                <strong title="0.5-1.5万/月">0.5-1.5万/月</strong>
+                <span title="北京-西城区">北京-西城区</span>
+                <em class="apply" onclick="emClick(this)" name="delivery_em"></em>
+                <input name="delivery_jobid_similar" class="checkbox" style="display:none" type="checkbox" value="112210262" jt="2">
+            </div>
+                    <div class="e">
+                <a title="应用商店广告销售" class="name" href="https://jobs.51job.com/beijing-cyq/116670017.html?t=2&amp;s=02" target="_blank">应用商店广告销售</a>
+                <a title="北京新彩量科技有限公司" href="https://jobs.51job.com/beijing-cyq/co4820378.html" target="_blank">北京新彩量科技有限公司</a>
+                <strong title="1-2万/月">1-2万/月</strong>
+                <span title="北京-朝阳区">北京-朝阳区</span>
+                <em class="apply" onclick="emClick(this)" name="delivery_em"></em>
+                <input name="delivery_jobid_similar" class="checkbox" style="display:none" type="checkbox" value="116670017" jt="2">
+            </div>
+                    <div class="e">
+                <a title="广告销售" class="name" href="https://jobs.51job.com/beijing-cyq/114562547.html?t=2&amp;s=02" target="_blank">广告销售</a>
+                <a title="杭州有赞科技有限公司" href="https://jobs.51job.com/beijing-cyq/co3285507.html" target="_blank">杭州有赞科技有限公司</a>
+                <strong title="0.8-1.5万/月">0.8-1.5万/月</strong>
+                <span title="北京-朝阳区">北京-朝阳区</span>
+                <em class="apply" onclick="emClick(this)" name="delivery_em"></em>
+                <input name="delivery_jobid_similar" class="checkbox" style="display:none" type="checkbox" value="114562547" jt="2">
+            </div>
+                    <div class="e">
+                <a title="广告销售（跨国业务）" class="name" href="https://jobs.51job.com/beijing-cyq/114985693.html?t=2&amp;s=02" target="_blank">广告销售（跨国业务）</a>
+                <a title="北京时代华语国际传媒股份有限公司" href="https://jobs.51job.com/beijing-cyq/co4790855.html" target="_blank">北京时代华语国际传媒股份有限公司</a>
+                <strong title="1-2万/月">1-2万/月</strong>
+                <span title="北京-朝阳区">北京-朝阳区</span>
+                <em class="apply" onclick="emClick(this)" name="delivery_em"></em>
+                <input name="delivery_jobid_similar" class="checkbox" style="display:none" type="checkbox" value="114985693" jt="2">
+            </div>
+                    <div class="e">
+                <a title="广告销售" class="name" href="https://jobs.51job.com/beijing-hdq/112877941.html?t=2&amp;s=02" target="_blank">广告销售</a>
+                <a title="北京零智文化发展有限公司" href="https://jobs.51job.com/beijing-hdq/co5364343.html" target="_blank">北京零智文化发展有限公司</a>
+                <strong title="0.8-1.6万/月">0.8-1.6万/月</strong>
+                <span title="北京-海淀区">北京-海淀区</span>
+                <em class="apply" onclick="emClick(this)" name="delivery_em"></em>
+                <input name="delivery_jobid_similar" class="checkbox" style="display:none" type="checkbox" value="112877941" jt="2">
+            </div>
+                    <div class="e">
+                <a title="华北汽车业务效果广告销售" class="name" href="https://jobs.51job.com/beijing/115550955.html?t=2&amp;s=02" target="_blank">华北汽车业务效果广告销售</a>
+                <a title="字节跳动" href="https://jobs.51job.com/beijing/co2758227.html" target="_blank">字节跳动</a>
+                <strong title="0.8-1.5万/月">0.8-1.5万/月</strong>
+                <span title="北京">北京</span>
+                <em class="apply" onclick="emClick(this)" name="delivery_em"></em>
+                <input name="delivery_jobid_similar" class="checkbox" style="display:none" type="checkbox" value="115550955" jt="2">
+            </div>
+                    <div class="e">
+                <a title="急聘广告销售双休" class="name" href="https://jobs.51job.com/beijing-ftq/116343910.html?t=2&amp;s=02" target="_blank">急聘广告销售双休</a>
+                <a title="北京艾特互联广告传媒有限责任公司" href="https://jobs.51job.com/beijing-ftq/co5614851.html" target="_blank">北京艾特互联广告传媒有限责任公司</a>
+                <strong title="1-1.5万/月">1-1.5万/月</strong>
+                <span title="北京-丰台区">北京-丰台区</span>
+                <em class="apply" onclick="emClick(this)" name="delivery_em"></em>
+                <input name="delivery_jobid_similar" class="checkbox" style="display:none" type="checkbox" value="116343910" jt="2">
+            </div>
+                    <div class="e">
+                <a title="广告销售" class="name" href="https://jobs.51job.com/beijing-cyq/112198149.html?t=2&amp;s=02" target="_blank">广告销售</a>
+                <a title="武汉微思敦网络技术有限公司" href="https://jobs.51job.com/beijing-cyq/co4053254.html" target="_blank">武汉微思敦网络技术有限公司</a>
+                <strong title="1-2万/月">1-2万/月</strong>
+                <span title="北京-朝阳区">北京-朝阳区</span>
+                <em class="apply" onclick="emClick(this)" name="delivery_em"></em>
+                <input name="delivery_jobid_similar" class="checkbox" style="display:none" type="checkbox" value="112198149" jt="2">
+            </div>
+            </div>
+    <div class="apBtn">
+        <div class="chall">
+            <em class="check" onclick="SelectAllJobs(this)"></em>
+            <span>全选</span>
+        </div>
+        <div class="op">
+            <span class="but_sq" onclick="delivery('delivery_jobid_similar', '2', '//i.51job.com', 'c', 'https://jobs.51job.com', '01', '02', '//img04.51jobcdn.com');">
+                <i></i>一键申请
+            </span>
+        </div>
+    </div>
+            <a class="rjlist_more" href="https://jobs.51job.com/beijing/tuijian/tj114081744/" target="_blank">更多相似职位</a>
+                </div>
+            <!-- Recommend -->
+            <div class="e gbox">
+                <h2>
+                    <a title="北京计算机软件招聘企业名录" href="//company.51job.com/beijing/hy01/" target="_blank"><span class="bname">
+                            北京计算机软件招聘企业名...                        </span></a>
+                    <a class="op" href="//company.51job.com">+ 更多</a>
+                    <input name="company_jobarea" id="company_jobarea" type="hidden" value="010000">
+                    <input name="company_indtype" id="company_indtype" type="hidden" value="01">
+                </h2>
+                <ul class="cylist" id="get_company_list"><li><a href="https://jobs.51job.com/all/co2758227.html">字节跳动</a></li><li><a href="https://jobs.51job.com/all/co2381155.html">美团点评</a></li><li><a href="https://jobs.51job.com/all/co5335761.html">紫梧桐（北京）资产管理有限公司</a></li><li><a href="https://jobs.51job.com/all/co4022612.html">美团点评</a></li><li><a href="https://jobs.51job.com/all/co2449752.html">小米通讯技术有限公司</a></li><li><a href="https://jobs.51job.com/all/co5558174.html">北京友聚四海网络科技有限公司</a></li><li><a href="https://jobs.51job.com/all/co1686854.html">软通动力信息技术（集团）有限公司</a></li><li><a href="https://jobs.51job.com/all/co110228.html">北京天融信科技有限公司</a></li><li><a href="https://jobs.51job.com/all/co5460630.html">北京凯达伟业科技有限公司</a></li><li><a href="https://jobs.51job.com/all/co5363382.html">北京码农星球软件有限公司</a></li></ul>
+            </div>
+        </div>
+
+        <div class="clear"></div>
+    </div>
+
+    <a id="goTop" style="display:none;" href="#top">回到<br>顶部</a>
+</div>
+<!--引用js-->
+<script src="//js.51jobcdn.com/in/resource/js/2019/jobs/common.55393d38.js" type="text/javascript"></script>
+<script src="//js.51jobcdn.com/in/resource/js/2019/jobs/jobList.0f9ad242.js" type="text/javascript"></script>
+<script src="//js.51jobcdn.com/in/resource/js/2019/jobs/jobListCss.8253584e.js" type="text/javascript"></script>
+<div class="footer">
+    <div class="in">
+        <div class="nag">
+            <div class="e e_first">
+                <label>销售热线：</label>400-886-0051&nbsp;&nbsp;027-87810888<br>
+                <label>客服热线：</label>400-620-5100<br>
+                <label>Email：</label><a href="mailto:club@51job.com" rel="external nofollow">club@51job.com</a>（个人）<br>
+                <a href="mailto:hr@51job.com" rel="external nofollow">hr@51job.com</a>（公司）            </div>
+            <div class="e">
+                <strong>简介</strong><br>
+                <a href="//www.51job.com/bo/AboutUs.php" target="_blank">关于我们</a><br>
+                <a href="//www.51job.com/bo/service.php" target="_blank">服务声明</a><br>
+                <a href="https://media.51job.com/media.php" target="_blank">媒体报道</a><br>
+                <a href="https://ir.51job.com/ir/IRMain.php" target="_blank">Investor Relations</a>
+            </div>
+            <div class="e">
+                <strong>合作</strong><br>
+                <a href="//www.51job.com/bo/jobs/new_joinus.php" target="_blank">加入我们</a><br>
+                <a href="//www.51job.com/bo/contact.php" target="_blank">联系我们</a><br>
+                <a href="//www.51job.com/link.php" target="_blank">友情链接</a>            </div>
+            <div class="e">
+                <strong>帮助</strong><br>
+                <a href="https://help.51job.com/home.html" target="_blank">帮助中心</a><br>
+                <a href="https://help.51job.com/qa.html?from=b" target="_blank">常见问题</a><br>
+                <a href="https://help.51job.com/guide.html?from=d" target="_blank">新手引导</a>            </div>
+            <div class="e">
+                <strong>导航</strong><br>
+                <a href="//www.51job.com/sitemap/site_Navigate.php" target="_blank">网站地图</a><br>
+                <a href="https://search.51job.com" target="_blank">职位搜索</a><br>
+                <a href="//i.51job.com/resume/resume_center.php?lang=c">简历中心</a><br>
+                <a href="//company.51job.com" target="_blank">企业名录</a>            </div>
+            <div class="code c_first">
+                <img width="80" height="80" alt="APP下载" src="//img04.51jobcdn.com/im/2016/code/web_bottom.png">
+                <span><a href="http://app.51job.com/index.html">APP下载</a></span>
+            </div>
+            <div class="code">
+                <img width="80" height="80" alt="微信服务号" src="//img04.51jobcdn.com/im/2016/code/web_fuwuhao_bottom.png">
+                <span>微信服务号</span>
+            </div>
+            <div class="clear"></div>
+        </div>
+
+        <p class="note nag">
+            <span>未经51Job同意，不得转载本网站之所有招聘信息及作品 | 无忧工作网版权所有©1999-2019</span>
+    </p>    </div>
+</div>
+
+</body></html>
