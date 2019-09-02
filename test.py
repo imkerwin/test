@@ -7,3 +7,5 @@ html = markdown.markdown(text)
 
 with open('2.txt','w',encoding='utf-8') as file:
     file.write(html)
+
+print('sf')
